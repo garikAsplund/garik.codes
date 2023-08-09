@@ -17,9 +17,16 @@
 				</svelte:fragment>
 				<svelte:fragment slot="trail">
 					<a
-					href="https://github.com/garikAsplund"
+					class="btn hover:scale-110"
+					href="/blog"
 					>
 					Blog
+					</a>
+					<a
+					class="btn hover:scale-110"
+					href="/contact"
+					>
+					Contact
 					</a>
 					<LightSwitch />
 				</svelte:fragment>
@@ -34,7 +41,7 @@
 					rel="noreferrer"
 					class="hover:scale-110"
 				>
-					<img src="github.svg" width="40" height="40" alt="GitHub"/>
+					<img src="../github.svg" width="40" height="40" alt="GitHub"/>
 				</a>
 				<a
 					href="https://twitter.com/garik_law"
@@ -42,7 +49,7 @@
 					rel="noreferrer"
 					class="hover:scale-110"
 				>
-					<img src="twitter.svg" width="40" height="40" alt="Twitter"/>
+					<img src="../twitter.svg" width="40" height="40" alt="Twitter"/>
 				</a>
 				<a
 					href="https://www.instagram.com/garik.asplund/"
@@ -50,7 +57,7 @@
 					rel="noreferrer"
 					class="hover:scale-110"
 				>
-				<img src="instagram.svg" width="40" height="40" alt="Instagram"/>
+				<img src="../instagram.svg" width="40" height="40" alt="Instagram"/>
 			</a>
 				<a
 					href="https://www.linkedin.com/in/garik-asplund/"
@@ -58,7 +65,7 @@
 					rel="noreferrer"
 					class="hover:scale-110"
 				>
-				<img src="linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+				<img src="../linkedin.svg" width="40" height="40" alt="LinkedIn"/>
 				</a>
 			</div>
 		</svelte:fragment>
