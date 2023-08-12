@@ -4,8 +4,13 @@
     const { title, date, Content } = data
 </script>
 
-<article class="container h-full mx-auto flex flex-col justify-center items-center space-y-5">
-  <h1 class="h1">{title}</h1>
-  <p>Published: {date}</p>
-  <Content />
+<article class="container h-full mx-auto flex flex-col items-center">
+  <h1 class="font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600
+  m-10">{title}</h1>
+  <div class="prose dark:prose-invert">
+    <Content />
+  </div>
+  <br>
+  <br>
+  <p class="text-sm">Published: {date}</p>
 </article>
