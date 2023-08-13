@@ -17,6 +17,8 @@ Yes, I'm new to the software engineering game. Yes, I haven't really blogged tha
 
 Coding, by itself, is not enough. In order to become a better programmer, I must look both under the hood and take a bird's-eye view. In doing so, I can understand what the code is doing, how it's doing it, and also *why*. I'll also discover the implications, good or ill, of different design decisions.
 
-With patience and practice, I plan to go from that curious coding kitten to this beast:
+## Where I'll be tomorrow
+
+With patience and practice, I plan to go from that curious coding kitten to this 10x developer:
 
 ![Future me, coding](https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif "Coding cat")
