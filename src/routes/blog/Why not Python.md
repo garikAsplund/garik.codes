@@ -38,11 +38,11 @@ Each one of these issues, *by itself*, is reason enough to look for a different 
 
 ## Too little too late
 
-The thing is, the Python community kind of knows these shortcomings. Kind of. In 2020, none other than Microsoft [hired back](https://www.zdnet.com/article/guido-van-rossum-the-python-languages-founder-joins-microsoft/) the creator of Python, Guido van Rossum, to head up a team to revamp the language with the goal of making it twice as fast, or still 5-50x slower than C, C++, or Rust 🤦. That's pretty pathetic.
+The thing is, the Python community kind of knows these shortcomings. Kind of. In 2020, none other than Microsoft [lured](https://www.zdnet.com/article/guido-van-rossum-the-python-languages-founder-joins-microsoft/) the creator of Python, Guido van Rossum, out of retirement to head up a team to revamp the language with the goal of making it twice as fast, or still 5-50x slower than C, C++, or Rust 🤦. That's pretty pathetic.
 
 The 3.11 release of Python gained 25% over 3.10. Whelp. That took a team at Microsoft *years* to accomplish. There are already much better choices out there that are safe as safe can be and run on bare metal blazingly fast. Plus, these competitors adhere to zero-cost abstractions and backwards compatibility, which we'll get to in a minute. **The war is already over, guys**.
 
-What's more, Guido previously worked at Dropbox and was tasked to "wrangle four million lines of Python code." Python is supposed to be cool because it's Zen. It even has a poem you can import
+What's more, Guido previously worked at Dropbox and was tasked to "wrangle four million lines of Python code." Python is supposed to be cool because it's Zen. It even has a poem you can import called The Zen of Python:
 
 ```python
 >>> import this
@@ -88,9 +88,11 @@ The problem is that Python code tends to be less extensible than other code. So 
 
 ![Zen as fuck](https://i.pinimg.com/736x/19/31/1c/19311c69369f569baf639b52811955ad.jpg)
 
-Just like in life, if someone is touting how "zen as fuck" they are, they're most definitely more "annoying as fuck," and shouldn't be taken seriously.
+Just like in life, if someone is touting how "Zen as fuck" they are, they're most definitely more "annoying as fuck," and shouldn't be taken seriously.
 
-And, for being so zen, Python sure [botched](https://news.ycombinator.com/item?id=15708136) the [transition](https://www.wired.com/story/think-app-updates-suck-try-upgrading-programming-language/) from version 2 to 3. Like, [majorly](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Dropbox, which had Guido himself to guide the process, took over 3 years to migrate from 2 to 3, and wasn't done by the time he retired. [Here's an account](https://www.activestate.com/blog/python-2-to-3-migr) of a developer's experience in migrating over. Let this sink in:
+And, for being so zen, Python sure [botched](https://news.ycombinator.com/item?id=15708136) the [transition](https://www.wired.com/story/think-app-updates-suck-try-upgrading-programming-language/) from version 2 to 3. Like, [majorly](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Dropbox, which had Guido himself to guide the process, took over 3 years to migrate from 2 to 3, and wasn't done by the time he retired. Moreover, the Dropbox team basically said, "F this," and switched to Rust with amazing gains across the board. Ouch.
+
+[Here's an account](https://www.activestate.com/blog/python-2-to-3-migr) of a developer's experience in migrating over. Let this sink in:
 
 > When I prepared for my migration, I read a lot about Python 3. I was surprised to find that it has been in development since 2005! The first release was way back in 2008. Ever since then the Python community has been pushing for developers to make the jump. However, after an unsuccessful deadline in 2016, the community decided to do a hard stop in 2020. 
 
