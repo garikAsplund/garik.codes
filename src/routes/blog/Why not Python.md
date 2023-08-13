@@ -118,11 +118,4 @@ Add in that pandas, much like the Python team of yesteryear, is [repeating the m
 
 So why deal with all this hassle? Well, **don't**. The path forward is pretty clear. For decades Python has risen in popularity, and despite this, the changes to the language and its ecosystem of libraries show that improvements are still wanting in major ways, and what improvements there are come with heavy costs. 
 
-The world of machine learning, IOT, and AGI will only require *more* timeliness and efficient use of resources. These are things that Python cannot and will not deliver.
-
-
-
-
-
-
-
+The world of machine learning, IOT, and AGI will only require *more* timeliness and efficient use of resources. These are things that Python cannot and will not deliver. Python is great for hobbyists and kids who are just getting into programming via [RaspberryPi](https://www.raspberrypi.com/), but it should not be the language of choice as we are steadily [handing over the reigns](https://builtin.com/artificial-intelligence/artificial-intelligence-future) to computers.
