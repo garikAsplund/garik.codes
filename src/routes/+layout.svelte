@@ -5,11 +5,24 @@
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
-	import { AppShell, AppBar, LightSwitch } from '@skeletonlabs/skeleton';
+	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+	import { Drawer, drawerStore } from '@skeletonlabs/skeleton';
 	import { fade } from 'svelte/transition';
+	import Navigation from '$lib/utils/Components/Navigation.svelte';
+	import ListNavigation from '$lib/utils/Components/ListNavigation.svelte';
+
 	export let data;
+
+	function drawerOpen() {
+		drawerStore.open({});
+	}
 </script>
-<AppShell>
+
+<Drawer position="right" width="w-1/3" bgBackdrop="bg-white/25">
+	<ListNavigation />
+</Drawer>
+
+<AppShell slotSidebarRight="bg-surface-500/5 w-56 p-4">
 	<svelte:fragment slot="header">
 			<AppBar>
 				<svelte:fragment slot="lead">
@@ -18,21 +31,26 @@
 					</a>
 				</svelte:fragment>
 				<svelte:fragment slot="trail">
-					<a
-					class="btn hover:scale-110"
-					href="/blog"
-					>
-					Blog
-					</a>
-					<a
-					class="btn hover:scale-110"
-					href="/contact"
-					>
-					Contact
-					</a>
-					<LightSwitch />
+					<div class="hidden md:flex">
+						<Navigation />
+					</div>
+					<div class="flex items-end">
+						<button class="md:hidden btn btn-sm mr-4" on:click={drawerOpen}>
+							<span>
+								<svg viewBox="0 0 100 80" class="fill-token w-4 h-4">
+									<rect width="100" height="20" />
+									<rect y="30" width="100" height="20" />
+									<rect y="60" width="100" height="20" />
+								</svg>
+							</span>
+						</button>
+					</div>
+					
 				</svelte:fragment>
 			</AppBar>
+		</svelte:fragment>
+		<svelte:fragment slot="sidebarRight">
+			
 		</svelte:fragment>
 		{#key data.currentRoute}
 		<main class="container h-full mx-auto flex justify-center items-start"
