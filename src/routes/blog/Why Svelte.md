@@ -1,5 +1,5 @@
 ---
-title: Why SvelteKit?
+title: Why Svelte?
 date: "2023-08-14"
 ---
 
