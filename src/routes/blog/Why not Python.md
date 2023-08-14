@@ -3,7 +3,7 @@ title: Why not Python?
 date: "2023-08-13"
 ---
 
-![Python. Gross.](https://media.tenor.com/E4F_uLU34UsAAAAC/why-did-it-have-to-be-snakes-indiana-jones.gif)
+![Python. Gross.](https://media.tenor.com/E4F_uLU34UsAAAAC/why-did-it-have-to-be-snakes-indiana-jones.gif "Indy knows")
 
 **Python**. It very well could be the [most used](https://pypl.github.io/PYPL.html) programming language out there. It's easy to see why: 
 
@@ -20,8 +20,8 @@ Python is used most widely in data, analytics, and machine learning, with a lot 
 
 It **should** be, but most definitely *isn't*.
 
-![Slow](../python2.png)
-![Fast](../python1.png)
+![Slow](../python2.png "Oh nooooo")
+![Fast](../python1.png "Oh yeaaaaaah")
 
 # 🐍 == 🐌
 
@@ -34,7 +34,7 @@ Here's the rub. Python is the **worst** choice for doing what it does. At least 
 
 Each one of these issues, *by itself*, is reason enough to look for a different paradigm. Put another way, **Python is sluggish, selfish, poor at its job, and let's the bad guys in**. 
 
-![GOB Knows](https://64.media.tumblr.com/84c8ce7dd9d89bfcca79788f763cb97e/tumblr_mngx21FyhC1qa8jwfo1_500.gifv)
+![GOB Knows](https://64.media.tumblr.com/84c8ce7dd9d89bfcca79788f763cb97e/tumblr_mngx21FyhC1qa8jwfo1_500.gifv "Cock-a-caw")
 
 ## Too little too late
 
@@ -86,7 +86,7 @@ The problem is that Python code tends to be less extensible than other code. So 
 
 > When the company grew, new engineers could not understand the clever but 'short and cryptic' code written by and for earlier developers. 
 
-![Zen as fuck](https://i.pinimg.com/736x/19/31/1c/19311c69369f569baf639b52811955ad.jpg)
+![Zen as fuck](https://i.pinimg.com/736x/19/31/1c/19311c69369f569baf639b52811955ad.jpg "Sure ya are, bud")
 
 Just like in life, if someone is touting how "Zen as fuck" they are, they're most definitely more "annoying as fuck," and shouldn't be taken seriously.
 
@@ -100,17 +100,17 @@ It took over a decade with breaking changes to sever ties to Python 2, and yet, 
 
 ## Allegory of the battle of the bears
 
-![Polars vs. pandas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2EHqvZVV4qNjRqrHiBK9-A.png)
+![Polars vs. pandas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2EHqvZVV4qNjRqrHiBK9-A.png "There's a new bear in town")
 
 For data manipulation, the go-to option is pandas. It's been the choice for some time, but recently a new bear arrived on the scene: Polars. Polars is written in Rust, so it all but takes care of every single shortcoming that Python, and by way of extension, pandas has. It's not a fair fight, really. 
 
 Read more about the breakdown [here](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1), [here](https://betterprogramming.pub/data-duel-pandas-2-0-and-polars-0-17-7-battle-for-supremacy-in-speed-and-syntax-87f062995550), [here](https://studioterabyte.nl/en/blog/polars-vs-pandas) and [here](https://www.makeuseof.com/pandas-vs-polars-which-is-better/), but this is the key takeaway:
 
-> While Pandas can take minutes of time to simply sort the data frame complex sorting functions can be evaluated in not more than 15 seconds in polars.
+> While Pandas can take minutes of time to simply sort the data frame, complex sorting functions can be evaluated in not more than 15 seconds in polars.
 
 Here's what it looks like in graph form:
 
-![pandas versus Polars](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cRKPevCMbpaBiR4rFLetPQ.png)
+![pandas vs. Polars](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cRKPevCMbpaBiR4rFLetPQ.png "Rust FTW")
 
 Add in that pandas, much like the Python team of yesteryear, is [repeating the mistake](https://www.infoworld.com/article/3513440/pandas-10-brings-big-breaking-changes.html) of not taking [backwards compatibility](https://stackoverflow.com/questions/75956209/dataframe-object-has-no-attribute-append) seriously. Big bummer.
 
