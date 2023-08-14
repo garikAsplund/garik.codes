@@ -44,7 +44,7 @@ The 3.11 release of Python gained 25% over 3.10. Whelp. That took a team at Micr
 
 What's more, Guido previously worked at Dropbox and was tasked to "wrangle four million lines of Python code." Python is supposed to be cool because it's Zen. It even has a poem you can import called The Zen of Python:
 
-```python
+```python title="Say hello to Shiki highlighting"
 >>> import this
 
 The Zen of Python, by Tim Peters
