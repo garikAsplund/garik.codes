@@ -34,7 +34,12 @@
 				</svelte:fragment>
 			</AppBar>
 		</svelte:fragment>
+		{#key data.currentRoute}
+		<main class="container h-full mx-auto flex justify-center items-start"
+			in:fade={{ duration: 250, delay: 250 }} out:fade={{ duration: 250 }}>
 		<slot />
+		</main>
+		{/key}
 		<svelte:fragment slot="footer">
 				<div class="flex flex-row justify-center gap-x-1 opacity-60">
 				<a
