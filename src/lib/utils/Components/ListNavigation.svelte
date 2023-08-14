@@ -27,7 +27,7 @@
             Contact
             </a>
         </li>
-        <li class="flex justify-end mx-4">
+        <li class="flex justify-end my-4 mx-4">
             <LightSwitch />
         </li>
     </ul>
