@@ -90,9 +90,9 @@ The problem is that Python code tends to be less extensible than other code. So 
 
 Just like in life, if someone is touting how "Zen as fuck" they are, they're most definitely more "annoying as fuck," and shouldn't be taken seriously.
 
-And, for being so Zen, Python sure [botched](https://news.ycombinator.com/item?id=15708136) the [transition](https://www.wired.com/story/think-app-updates-suck-try-upgrading-programming-language/) from version 2 to 3. Like, [majorly](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Dropbox, which had Guido himself to guide the process, took over 3 years to migrate from 2 to 3, and wasn't done by the time he retired. Moreover, the Dropbox team basically said, "F this," and switched to Rust with amazing gains across the board. Ouch.
+And, for being so Zen, Python sure [botched](https://news.ycombinator.com/item?id=15708136) the [transition](https://www.wired.com/story/think-app-updates-suck-try-upgrading-programming-language/) from version 2 to 3. Like, [majorly](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Dropbox, which had Guido himself to guide the process, took over 3 years to migrate from 2 to 3, and wasn't done by the time he retired. Moreover, the Dropbox team basically said, "F this," and [switched their sync engine to Rust](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine) with amazing gains across the board, calling it a "force multiplier for our team, and betting on Rust was one of the best decisions we made." Ouch.
 
-[Here's an account](https://www.activestate.com/blog/python-2-to-3-migr) of a developer's experience in migrating over. Let this sink in:
+[Here's an account](https://www.activestate.com/blog/python-2-to-3-migr) of a developer's experience in migrating over from Python 2 to 3. Let this sink in:
 
 > When I prepared for my migration, I read a lot about Python 3. I was surprised to find that it has been in development since 2005! The first release was way back in 2008. Ever since then the Python community has been pushing for developers to make the jump. However, after an unsuccessful deadline in 2016, the community decided to do a hard stop in 2020. 
 

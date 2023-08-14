@@ -3,7 +3,7 @@
 </script>
 
 <div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-5">
+	<div class="space-y-5 w-5/6">
 		<h1 class="h1"><span class="gradient-heading text-6xl">Garik Asplund</span></h1>
 		<h2 class="text-2xl">Full stack software engineer</h2>
 		<ul>

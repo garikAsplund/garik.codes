@@ -13,4 +13,5 @@
   <br>
   <br>
   <p class="text-sm">Published: {date}</p>
+  <br>
 </article>
