@@ -116,8 +116,12 @@ Add in that pandas, much like the Python team of yesteryear, is [repeating the m
 
 > Long time pandas user but changes like this are why polars is becoming more popular i guess
 
+## Maybe Mojo 🔥
+
+The most promising recent development is [Mojo](https://docs.modular.com/mojo/why-mojo.html). Chris Lattner, who also spearheaded Swift, has been influenced by Rust and &borrowed--[get it??](https://betterprogramming.pub/the-magic-of-borrow-checkers-in-rust-238a2a97bff2)--heavily from the 🦀🦀 to gift the world with Mojo. Some benchmarks show that Mojo is **35,000x faster** than Python, and, as a superset of Python, you don't have to worry too much about throwing away your old code, doing a whole rewrite, or training a team the ins and outs of Rust. It's still super new and untested--like, it doesn't even have classes yet--but it sure seems like *this* is where people should be focusing moving forward.
+
 ## Sayonara, snake
 
 So why deal with all this hassle? Well, **don't**. The path forward is pretty clear. For decades Python has risen in popularity, and despite this, the changes to the language and its ecosystem of libraries show that improvements are still wanting in major ways, and what improvements there are come with heavy costs. 
 
-The world of machine learning, IOT, and AGI will only require *more* timeliness and efficient use of resources. These are things that Python cannot and will not deliver. Python is great for hobbyists and kids who are just getting into programming via [RaspberryPi](https://www.raspberrypi.com/), but it should not be the language of choice as we are steadily [handing over the reigns](https://builtin.com/artificial-intelligence/artificial-intelligence-future) to computers.
+The world of machine learning, IOT, and AGI is not far off, and that world will only require *more* timeliness, *more* safety and security, and *more* efficient use of resources. These are things that Python cannot and will not deliver. Python is great for hobbyists and kids who are just getting into programming via [RaspberryPi](https://www.raspberrypi.com/), but it should not be the language of choice as we are steadily [handing over the reigns](https://builtin.com/artificial-intelligence/artificial-intelligence-future) to computers.
