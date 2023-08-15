@@ -18,6 +18,10 @@
 	}
 </script>
 
+<head>
+	<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap" rel="stylesheet">
+</head>
+
 <Drawer position="right" width="w-1/3" bgBackdrop="bg-white/25">
 	<ListNavigation />
 </Drawer>
@@ -26,8 +30,8 @@
 	<svelte:fragment slot="header">
 			<AppBar>
 				<svelte:fragment slot="lead">
-					<a href="/">
-						<strong class="text-xl uppercase">Garik.codes</strong>
+					<a href="/" class="writer-text hover:text-gray-600">
+						<strong class="text-2xl uppercase font-mono">Garik.codes</strong>
 					</a>
 				</svelte:fragment>
 				<svelte:fragment slot="trail">
@@ -124,3 +128,35 @@
 			</div>
 		</svelte:fragment>
 </AppShell>
+
+<style>
+	.writer-text {
+            display: inline-block;
+            overflow: hidden;
+            letter-spacing: 2px;
+            animation: typing 5s steps(11, end), blink .75s step-end 14;
+            white-space: nowrap;
+            font-size: 30px;
+            font-weight: 700;
+            border-right: 4px solid transparent;
+            box-sizing: border-box;
+        }
+
+        @keyframes typing {
+            from { 
+                width: 0% 
+            }
+            to { 
+                width: 100% 
+            }
+        }
+
+        @keyframes blink {
+            from, to { 
+                border-color: transparent 
+            }
+            50% { 
+                border-color: orange; 
+            }
+        }
+</style>
