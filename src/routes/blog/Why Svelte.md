@@ -19,11 +19,11 @@ That's not really a secret, and it feels like over the last few years React has 
 
 Here's why it's such a good choice:
 
-- unrivaled DX
-- small bundle sizes
-- straightforward state management
-- amazing performance and adaptability
-- good and growing community support
+- Unrivaled DX
+- Small bundle sizes
+- Straightforward state management
+- Amazing performance and adaptability
+- Good and growing community support
 
 ## A little background
 
@@ -73,7 +73,7 @@ SvelteKit also has quick, easy-to-use transitions, effects, and animations out o
 
 ## Small bundle sizes
 
-While React will ship over 40k of <del>BS</del> JS right out the gate, Svelte will compile all that JS down and only ship what is needed, which is usually around 2k 😮. Furthermore, Svelte does away with the Virtual DOM and all its diffing algorithms, instead relying on direct updates to the DOM. This highly optimized method helps speed things along, saving time and money.
+While React will ship over 40 kB of <del>BS</del> JS right out the gate, Svelte will compile all that JS down and only ship what is needed, which is usually around 2 kB 😮. Furthermore, Svelte does away with the Virtual DOM and all its diffing algorithms, instead relying on direct updates to the DOM. This highly optimized method helps speed things along, saving time and money.
 
 ## Straightforward state management
 
