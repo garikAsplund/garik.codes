@@ -77,13 +77,13 @@ While React will ship over 40 kB of <del>BS</del> JS right out the gate, Svelte 
 
 ## Straightforward state management
 
-I remember in my coding bootcamp when we went over Redux, they said it was hell weak and made everybody set this image as our Zoom background:
+I remember in my coding bootcamp when we went over Redux, they said it was hell week and made everybody set this image as our Zoom background:
 
 ![Redux sux](https://www.freecodecamp.org/news/content/images/2022/06/2.png "Simple, right?")
 
-We had dispatchers and actions everywhere, and even though we were just updating some credit card info, we had files and files to navigate just to change a couple numbers. Thankfully, Svelte has simplified state management with built-in, reactive stores and this shorthand for subscribing to them: $. Easy as that. 
+We had dispatchers and actions everywhere, and even though we were just updating some credit card info, we had files and files to navigate through just to change a couple numbers. Thankfully, Svelte has simplified state management with built-in, reactive stores and this shorthand for subscribing to them: $. Easy as that. 
 
-[Here](https://joyofcode.xyz/svelte-state-management) is a much more detailed look at what else state management is like in Svelte, but suffice it to say that it is much, much simpler than in React, Redux, Zustand, or any other system. **And it comes built-in** 🤯.
+[Here](https://joyofcode.xyz/svelte-state-management) is a much more detailed look at how state management is implemented in Svelte, but suffice it to say that it is much, much simpler than in React, Redux, Zustand, or any other system. **And it comes *built-in*** 🤯.
 
 ## Amazing performance and adaptability
 
@@ -98,7 +98,7 @@ With SvelteKit, you can adapt your website for static use or deployment to any n
 
 ## Good and growing community support
 
-While Svelte may not be the most popular, it is the most loved. Its ecosystem of libraries and packages is well-maintained and growing by the day. Most tools you'd want to use already exist, more are being added by the day, and *if* it doesn't exist, you could be the hero that helps everyone else out and creates that library yourself. [Best of Svelte](https://bestofsvelte.com/t/components-and-libraries) does a great job of documenting what all is out there.
+While Svelte may not be the most popular, it is the most loved. Its ecosystem of libraries is well-maintained and growing by the day. Most tools you'd want to use already exist, more are being added by the day, and *if* it doesn't exist, you could be the hero that helps everyone else out and creates that library yourself. [Best of Svelte](https://bestofsvelte.com/t/components-and-libraries) does a great job of documenting what all is out there.
 
 ![So hot right now](https://www.wahidali.dev/_app/immutable/assets/Svelte-so-hot-dc417e61.webp "Mugatu understands")
 
