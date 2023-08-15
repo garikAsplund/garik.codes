@@ -30,7 +30,7 @@
 	<svelte:fragment slot="header">
 			<AppBar>
 				<svelte:fragment slot="lead">
-					<a href="/" class="writer-text hover:text-gray-600">
+					<a href="/" class="writer-text hover:scale-105">
 						<strong class="text-2xl uppercase font-mono">Garik.codes</strong>
 					</a>
 				</svelte:fragment>
