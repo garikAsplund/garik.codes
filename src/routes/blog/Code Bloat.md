@@ -82,6 +82,6 @@ The toughest thing is, I'm not sure whether to go down the refactoring road even
 
 If the project were bigger, it'd be an easy decision. Break. It. Down.
 
-For now, I'll just wait and hopefully next time I can better judge how to split things up in advance. Maybe.
+For now, though, I'll just wait and hopefully next time I can better judge how to split things up in advance. Maybe.
 
 ![Building be like](https://i.pinimg.com/originals/9a/a7/24/9aa7241c91aa10636577ef1d1f11a25a.png "Building be like")
