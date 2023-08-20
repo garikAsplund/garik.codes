@@ -78,9 +78,9 @@ Voila! Back to the main branch without the crazy complicated mess of trying out 
 
 The toughest thing is, I'm not sure whether to go down the refactoring road even further to make the code somewhat more modular and maybe more maintainable, or to let it wither on the vine. As it stands, this project is super small and only a couple of people will ever be looking at it. Do I spend my time pursuing something that doesn't really add much to the project and could be a dead end, or do I just leave it all a bit messy?
 
-[Good code is a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/). I want to provide something that is easy to navigate through and make alterations, but I'm not sure if that's with a medium-sized file that does many things with good labeling, or if it is to compartmentalize it all into smaller files, do a little more importing here, some exporting there, do some storing elsewhere, and hope that for non-coders it's not too much to handle. 
+[Good code is a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/). I want to provide something that is easy to navigate through and make alterations to, but I'm also not sure which path is better. Is it to go with a medium-sized file that does many things with good labeling, or is to compartmentalize code into smaller files, do a little more importing here, some exporting there, utilize stores elsewhere, and hope that for non-coders it's not too much to handle?
 
-If the project were bigger, it'd be an easy decision. Break. It. Down.
+If the project were bigger, it'd be an easy decision. **Break. It. Down**.
 
 For now, though, I'll just wait and hopefully next time I can better judge how to split things up in advance. Maybe.
 
