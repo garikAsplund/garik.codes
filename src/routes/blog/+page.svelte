@@ -5,7 +5,7 @@
 
 <div class="container flex items-start justify-center h-full mx-auto">
 	<div class="w-5/6">
-		<h1 class="m-10 font-extrabold h1 lg:h-28 sm:h-full gradient-heading-2 lg:text-8xl">
+		<h1 class="m-10 font-extrabold h1 lg:h-28 sm:h-full gradient-heading lg:text-8xl">
       Blogging like it's 2008
     </h1>
       <ul class="mx-24 space-y-5">
