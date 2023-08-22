@@ -112,13 +112,4 @@
             stroke-dashoffset: 0;
         }
     }
-
-    @keyframes fill {
-        from {
-            fill: transparent;
-        }
-        to {
-            fill: orange;
-        }
-    }
 </style>
