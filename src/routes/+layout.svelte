@@ -142,21 +142,21 @@
             box-sizing: border-box;
         }
 
-        @keyframes typing {
-            from { 
-                width: 0% 
-            }
-            to { 
-                width: 100% 
-            }
-        }
+	@keyframes typing {
+		from { 
+			width: 0% 
+		}
+		to { 
+			width: 100% 
+		}
+	}
 
-        @keyframes blink {
-            from, to { 
-                border-color: transparent 
-            }
-            50% { 
-                border-color: orange; 
-            }
-        }
+	@keyframes blink {
+		from, to { 
+			border-color: transparent 
+		}
+		50% { 
+			border-color: orange; 
+		}
+	}
 </style>

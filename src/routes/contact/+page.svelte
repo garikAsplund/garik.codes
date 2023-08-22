@@ -3,8 +3,9 @@
     export let data;
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
+<div class="container h-full mx-auto flex justify-center items-center -translate-y-10">
 	<div class="space-y-5 text-center">
+        <div class="invisible lg:visible stroke-black dark:stroke-white">
         <svg id="logo" width="1175" height="94" viewBox="0 0 1175 94" fill="none" xmlns="http://www.w3.org/2000/svg">
             <mask id="path-1-outside-1_1_9" maskUnits="userSpaceOnUse" x="0.671997" y="-0.287994" width="1174" height="95" fill="black">
             <rect fill="white" x="0.671997" y="-0.287994" width="1174" height="95"/>
@@ -34,6 +35,7 @@
             <path d="M1013.83 91V4.696H1018.67L1078.93 63.224V4.696H1083.52V91H1078.93V69.672L1018.42 10.648V91H1013.83Z" stroke="white" stroke-width="2" mask="url(#path-1-outside-1_1_9)"/>
             <path d="M1138.48 4.696C1144.76 4.696 1150.55 6.26667 1155.84 9.408C1161.21 12.5493 1165.47 16.8067 1168.61 22.18C1171.75 27.4707 1173.32 33.2573 1173.32 39.54V56.156C1173.32 62.4387 1171.75 68.2667 1168.61 73.64C1165.47 78.9307 1161.21 83.1467 1155.84 86.288C1150.55 89.4293 1144.76 91 1138.48 91H1106.61V4.696H1138.48ZM1168.74 39.54C1168.74 34.084 1167.37 29.0413 1164.64 24.412C1161.92 19.7827 1158.2 16.104 1153.48 13.376C1148.86 10.648 1143.81 9.284 1138.36 9.284H1111.2V86.412H1138.36C1143.81 86.412 1148.86 85.048 1153.48 82.32C1158.2 79.592 1161.92 75.9133 1164.64 71.284C1167.37 66.6547 1168.74 61.612 1168.74 56.156V39.54Z" stroke="white" stroke-width="2" mask="url(#path-1-outside-1_1_9)"/>
         </svg>
+        </div>
 		<h1 class="h1"><span class="gradient-heading-3 text-6xl">Contact me!</span></h1>
         <p class="text-xl">garik.asplund@gmail.com</p>
         <p class="text-lg">Or visit me in Joseph, Oregon</p>

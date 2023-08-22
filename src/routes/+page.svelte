@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <div class="container flex items-center justify-center h-full mx-auto -translate-y-12">
 	<div class="w-5/6 lg:space-y-8 md:space-y-5 sm:space-y-3">
 		<h1 class="h1"><span class="gradient-heading lg:text-8xl">Garik Asplund</span></h1>
