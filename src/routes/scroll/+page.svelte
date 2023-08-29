@@ -1,17 +1,17 @@
 <script>
 	import { setContext, onMount } from "svelte";
-	import { getData, setColors } from "./utils.js";
-	import { themes, regions, colors, datakeys } from './config.js';
+	import { getData, setColors } from "$lib/utils/Components/Scroll/utils.js";
+	import { themes, regions, colors, datakeys } from '$lib/utils/Components/Scroll/config.js';
 	import Scroller from "@sveltejs/svelte-scroller";
-	import { ScatterChart } from "@onsvisual/svelte-charts@0.0.10";
-	import ONSHeader from "./ONSHeader.svelte";
-	import ONSFooter from "./ONSFooter.svelte";
-	import Header from "./Header.svelte";
-	import Section from "./Section.svelte";
-	import Media from "./Media.svelte";
-	import Filler from "./Filler.svelte";
+	import { ScatterChart } from "@onsvisual/svelte-charts";
+	import ONSHeader from "$lib/utils/Components/Scroll/ONSHeader.svelte";
+	import ONSFooter from "$lib/utils/Components/Scroll/ONSFooter.svelte";
+	import Header from "$lib/utils/Components/Scroll/Header.svelte";
+	import Section from "$lib/utils/Components/Scroll/Section.svelte";
+	import Media from "$lib/utils/Components/Scroll/Media.svelte";
+	import Filler from "$lib/utils/Components/Scroll/Filler.svelte";
 	import Divider from "$lib/utils/Components/Scroll/Divider.svelte";
-	import Map from "./Map.svelte";
+	import Map from "$lib/utils/Components/Scroll/Map.svelte";
 
 	// STYLE CONFIG
 	// Set theme globally (options are 'light' or 'dark')
