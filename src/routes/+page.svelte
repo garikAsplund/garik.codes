@@ -45,7 +45,7 @@
 
 <style>
     #logo {
-        animation: fill 1s ease 4s;
+        transition: opacity 2s ease;
     }
     #logo path:nth-child(2) {
         stroke-dasharray: 541px;
@@ -108,9 +108,19 @@
         animation: line-anim 2s ease forwards;
     }
 
+    #logo:hover {
+        opacity: 0.1;
+    }
+
     @keyframes line-anim {
         to {
             stroke-dashoffset: 0;
+        }
+    }
+    
+    @keyframes alternate-line-anim {
+        to {
+            stroke-opacity: 0.1;
         }
     }
 </style>
