@@ -79,7 +79,7 @@ Because I was trained as an economist, I see tradeoffs everywhere. In this situa
 
 ![Yadda yadda yadda](https://media.tenor.com/ZeGdcWK2APYAAAAC/seinfeld-blah.gif)
 
-It's the same reason why you see websites use React up front and Node in back--it's all just JavaScript. JavaScript everywhere! Pay one dev to do it all? Easy.
+It's the same reason why you see websites use React up front and Node in back--it's all just JavaScript, bro. JavaScript everywhere! Pay one dev to do it all? Easy.
 
 Yet, this startup's project seems to be pretty large, and there are separate roles advertised for front end, back end, full stack, and data scientist. The extra time it takes to develop a back end in Rust will surely be worth it because it will be
 
