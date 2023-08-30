@@ -35,7 +35,7 @@ Microsoft Azure's CTO, Mark Russinovich, had this to say:
 
 [![Rust at Microsoft](../Rust_Tweet.png)](https://twitter.com/markrussinovich/status/1571995117233504257?lang=en)
 
-At Google's behest, Linux--the open source OS of choice for Android, not to mention 100% of the top 500 supercomputers, and the majority of servers--is slowly introducing Rust into its kernel. This is **huge**. Never before has Linux offloaded any compute away from C. *Ever*. Until now. Once, in the 90s, they toyed with using C++, but after two weeks [abandoned ship](https://en.wikipedia.org/wiki/Rust_for_Linux#cite_ref-1). Linus Torvalds also went on a [mini tirade](http://harmful.cat-v.org/software/c++/linus) about how bad C++ is when he was inventing Git. Oh yeah, you forgot he created **Linux *and* Git**??
+At Google's behest, Linux--the open source OS of choice for Android, not to mention [100% of the top 500 supercomputers](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/), and the [vast majority of servers](https://truelist.co/blog/linux-statistics/#:~:text=16.-,96.3%25%20of%20the%20top%20one%20million%20web%20servers%20are%20running,use%20Linux%2C%20server%20statistics%20indicate.)--is slowly introducing Rust into its kernel. This is **huge**. Never before has Linux offloaded any compute away from C. *Ever*. Until now. Once, in the 90s, they toyed with using C++, but after two weeks [abandoned ship](https://en.wikipedia.org/wiki/Rust_for_Linux#cite_ref-1). Linus Torvalds also went on a [mini tirade](http://harmful.cat-v.org/software/c++/linus) about how bad C++ is when he was inventing Git. Oh yeah, you forgot he created **Linux *and* Git**??
 
 In his own words:
 
