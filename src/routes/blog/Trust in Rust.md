@@ -101,4 +101,6 @@ Rust should not be used everywhere, though people who have drank the Kool-Aid ma
 
 Outside of that, though, it *does* make sense to use Rust for many things. Need a secure server that handles millions of requests a day, has zero downtime, and saves on energy use? Rust can help with that. Need to have a car that isn't hackable? Rust can help with that. Need to rewrite your OS and limit vulnerabilities? Rust can help with that.
 
+Need to break your code by trying to add one last thing? You *know* Rust can help with that, too.
+
 ![Ancient crustaceans](https://i.imgflip.com/1sk8j6.jpg "Rust, in a nut shell")
