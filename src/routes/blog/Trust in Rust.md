@@ -71,7 +71,7 @@ This is great! Rust is being taken in by the MAANG gang and many mid-majors to s
 
 ![Rewrite it in Rust](https://i.redd.it/9oez8zkg1qc01.png "Rust everywhere")
 
-Well, not so fast. There are some key areas where Rust doesn't really make sense.
+Well, not so fast. There are some key areas where Rust doesn't really make sense. Startups is generally one of those areas. See [here](https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454) and [here](https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again) for firsthand accounts.
 
 Recently I applied to a startup that says they want to integrate ML and AI with healthcare. They're based in NY and seem like they mean business. But here's the thing, they want a back end built with Flask, and that is a terrible idea. Maybe that was okay like a decade ago, but we know better now. Flask will be slow and have security vulnerabilities. Servers will be expensive to run and will probably crash for no reason at random intervals. The alternative is to have a back end written in Rust because it offers **speed, security, and stability**.
 
@@ -99,7 +99,7 @@ Rust should not be used everywhere, though people who have drank the Kool-Aid ma
 
 **For those situations, stick to JavaScript or Python**.
 
-Outside of that, though, it *does* make sense to use Rust for many things. Need a secure server that handles millions of requests a day, has zero downtime, and saves on energy use? Rust can help with that. Need to have a car that isn't hackable? Rust can help with that. Need to rewrite your OS and limit vulnerabilities? Rust can help with that.
+Outside of that, though, it *does* make sense to use Rust for many things. Need a secure server that handles millions of requests a day, has zero downtime, and saves on energy use? Rust can help with that. [Need to have a car that isn't hackable](https://www.linkedin.com/posts/fr%C3%A9d%C3%A9ric-ameye_softwaredefinedvehicle-activity-7095690645981331456-V0A5?utm_source=share&utm_medium=member_desktop)? Rust can help with that. Need to rewrite your OS and limit vulnerabilities? Rust can help with that. Need a [cool new CLI](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)? Rust can help with that.
 
 Need to break your code by trying to add one last thing? You *know* Rust can help with that, too.
 
