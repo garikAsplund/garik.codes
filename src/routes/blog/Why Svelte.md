@@ -5,7 +5,7 @@ date: "2023-08-14"
 
 ## Simplicity > Popularity
 
-When it comes to JavaScript <del>frameworks</del> libraries, **React** is king, and it kinda has been ever since it came out a decade ago. It has the biggest user base as well as the most tools and trinkets to trick out any and every project. 
+When it comes to JavaScript <del>frameworks</del> libraries, **React** is king, and it kinda has been ever since it came out a decade ago. It has the biggest user base as well as the most tools and trinkets to trick out any and every project.
 
 However, it's 2023 and React is **bloated, complicated, and slow**.
 
@@ -54,6 +54,7 @@ export default () => {
   );
 }
 ```
+
 And this is the same thing, but in Svelte:
 
 ```svelte
@@ -67,7 +68,7 @@ And this is the same thing, but in Svelte:
 <p>{a} + {b} = {a + b}</p>
 ```
 
-**So. Good**. It's explicit, it's direct, it's clear, it's short, it's sweet, it's everything developers want in code. It very simply brings JS into HTML rather than React's less elegant JSX, which takes the opposite approach of inserting HTML into JS. Even CSS can be in the same .svelte file! 
+**So. Good**. It's explicit, it's direct, it's clear, it's short, it's sweet, it's everything developers want in code. It very simply brings JS into HTML rather than React's less elegant JSX, which takes the opposite approach of inserting HTML into JS. Even CSS can be in the same .svelte file!
 
 SvelteKit also has quick, easy-to-use transitions, effects, and animations out of the box and has taken inspiration from Next and Nuxt to make building a website a breeze.
 
@@ -81,7 +82,7 @@ I remember in my coding bootcamp when we went over Redux, they said it was hell 
 
 ![Redux sux](https://www.freecodecamp.org/news/content/images/2022/06/2.png "Simple, right?")
 
-We had dispatchers and actions everywhere, and even though we were just updating some credit card info, we had files and files to navigate through just to change a couple numbers. Thankfully, Svelte has simplified state management with built-in, reactive stores and this shorthand for subscribing to them: $. Easy as that. 
+We had dispatchers and actions everywhere, and even though we were just updating some credit card info, we had files and files to navigate through just to change a couple numbers. Thankfully, Svelte has simplified state management with built-in, reactive stores and this shorthand for subscribing to them: $. Easy as that.
 
 [Here](https://joyofcode.xyz/svelte-state-management) is a much more detailed look at how state management is implemented in Svelte, but suffice it to say that it is much, much simpler than in React, Redux, Zustand, or any other system. **And it comes *built-in*** 🤯.
 
@@ -94,7 +95,6 @@ This chart only looks at memory usage, but other metrics end up being very simil
 With SvelteKit, you can adapt your website for static use or deployment to any number of targets. Within the website, you can opt in or opt out of SSR and CSR to best suit your needs, and you can also prerender pages on different events for even better performance. As mentioned in their docs:
 
 > You can mix and match these options in different areas of your app. For example you could prerender your marketing page for maximum speed, server-render your dynamic pages for SEO and accessibility and turn your admin section into an SPA by rendering it on the client only. This makes SvelteKit very versatile.
-
 
 ## Good and growing community support
 
