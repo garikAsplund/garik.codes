@@ -118,7 +118,9 @@ The most promising recent development is [Mojo](https://docs.modular.com/mojo/wh
 
 > The Mojo language has lofty goals: we want full compatibility with the Python ecosystem, we want predictable low-level performance and low-level control, and we need the ability to deploy subsets of code to accelerators. Additionally, we don’t want to create a fragmented software ecosystem—we don’t want Python users who adopt Mojo to draw comparisons to the painful migration from Python 2 to 3. These are no small goals!
 
-Stay tuned.
+Stay tuned. It'd be great, too, if this team also solved Python's package management issues. One can dream.
+
+[![Too true](https://imgs.xkcd.com/comics/python_environment_2x.png)](https://xkcd.com/1987/)
 
 ## Sayonara, snake
 
