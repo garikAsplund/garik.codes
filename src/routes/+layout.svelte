@@ -10,6 +10,10 @@
 	import { fade } from 'svelte/transition';
 	import Navigation from '$lib/utils/Components/Navigation.svelte';
 	import ListNavigation from '$lib/utils/Components/ListNavigation.svelte';
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
+ 
+	inject({ mode: dev ? 'development' : 'production' });
 
 	export let data;
 
