@@ -5,7 +5,7 @@ date: "2023-08-13"
 
 ![Python. Gross.](https://media.tenor.com/E4F_uLU34UsAAAAC/why-did-it-have-to-be-snakes-indiana-jones.gif "Indy knows")
 
-**Python**. It very well could be the [most used](https://pypl.github.io/PYPL.html) programming language out there. It's easy to see why: 
+**Python**. It very well could be the [most used](https://pypl.github.io/PYPL.html) programming language out there. It's easy to see why:
 
 - [It's beginner friendly](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [It has a vast amount of libraries](https://www.interviewbit.com/blog/python-libraries/#:~:text=With%20more%20than%20137%2C000%20libraries,data%20manipulation%2C%20and%20many%20more.)
@@ -25,14 +25,14 @@ It **should** be, but most definitely *isn't*.
 
 # 🐍 == 🐌
 
-Here's the rub. Python is the **worst** choice for doing what it does. At least it's not [Brainfuck](https://www.youtube.com/watch?v=hdHjjBS4cs8)? Of note, Python is
+Here's the rub. Python is the **worst** choice for doing what it does. Of note, Python is
 
 - One of the [slowest programming languages](https://github.com/niklas-heer/speed-comparison/blob/master/README.md) out there
 - Insanely [memory intensive](https://stackoverflow.com/questions/49031058/optimizing-memory-usage-pandas-python) and [power](https://www.efinancialcareers.com/news/2023/06/which-programming-language-uses-the-most-energy) [hungry](https://thenextweb.com/news/python-progamming-language-energy-analysis)
 - [Vulnerable](https://thehackernews.com/2022/09/15-year-old-unpatched-python.html) to [attack](https://thenewstack.io/compiled-python-code-used-in-a-new-pypi-attack/)
 - Susceptible to [random runtime errors](https://medium.com/metabob/chasing-memory-spikes-and-leaks-in-python-172ae99290d3)
 
-Each one of these issues, *by itself*, is reason enough to look for a different paradigm. Put another way, **Python is sluggish, selfish, poor at its job, and let's the bad guys in**. 
+Each one of these issues, *by itself*, is reason enough to look for a different paradigm. Put another way, **Python is sluggish, selfish, poor at its job, and let's the bad guys in**.
 
 ![GOB Knows](https://64.media.tumblr.com/84c8ce7dd9d89bfcca79788f763cb97e/tumblr_mngx21FyhC1qa8jwfo1_500.gifv "Cock-a-caw")
 
@@ -70,7 +70,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-But it's also possible that being one of the only kids on the block to ditch braces actually leads to difficulty programming in other languages or creates confusion. Being "Pythonic" is awesome, until it's not. At times it's childish. 
+But it's also possible that being one of the only kids on the block to ditch braces actually leads to difficulty programming in other languages or creates confusion. Being "Pythonic" is awesome, until it's not. At times it's childish.
 
 ```python
 >>> from __future__ import braces 
@@ -84,25 +84,21 @@ And other times being Pythonic also borders on being moronic. Martin Fowler know
 
 The problem is that Python code tends to be less extensible than other code. So not only is it slow to run on machines, it's slow in the hands of humans, too, which is very costly. Take [this example](https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/) from Dropbox:
 
-> When the company grew, new engineers could not understand the clever but 'short and cryptic' code written by and for earlier developers. 
-
-![Zen as fuck](https://i.pinimg.com/736x/19/31/1c/19311c69369f569baf639b52811955ad.jpg "Sure ya are, bud")
-
-Just like in life, if someone is touting how "Zen as fuck" they are, they're most definitely more "annoying as fuck," and shouldn't be taken seriously.
+> When the company grew, new engineers could not understand the clever but 'short and cryptic' code written by and for earlier developers.
 
 And, for being so Zen, Python sure [botched](https://news.ycombinator.com/item?id=15708136) the [transition](https://www.wired.com/story/think-app-updates-suck-try-upgrading-programming-language/) from version 2 to 3. Like, [majorly](https://stackoverflow.blog/2019/11/14/why-is-the-migration-to-python-3-taking-so-long/). Dropbox, which had Guido himself to guide the process, took over 3 years to migrate from 2 to 3, and wasn't done by the time he retired. Moreover, the Dropbox team basically said, "F this," and [switched their sync engine to Rust](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine) with amazing gains across the board, calling it a "force multiplier for our team, and betting on Rust was one of the best decisions we made." Ouch.
 
 [Here's an account](https://www.activestate.com/blog/python-2-to-3-migr) of a developer's experience in migrating over from Python 2 to 3. Let this sink in:
 
-> When I prepared for my migration, I read a lot about Python 3. I was surprised to find that it has been in development since 2005! The first release was way back in 2008. Ever since then the Python community has been pushing for developers to make the jump. However, after an unsuccessful deadline in 2016, the community decided to do a hard stop in 2020. 
+> When I prepared for my migration, I read a lot about Python 3. I was surprised to find that it has been in development since 2005! The first release was way back in 2008. Ever since then the Python community has been pushing for developers to make the jump. However, after an unsuccessful deadline in 2016, the community decided to do a hard stop in 2020.
 
-It took over a decade with breaking changes to sever ties to Python 2, and yet, somehow, many people and companies are still using Python 2 despite its vulnerabilities. 
+It took over a decade with breaking changes to sever ties to Python 2, and yet, somehow, many people and companies are still using Python 2 despite its vulnerabilities.
 
 ## Allegory of the battle of the bears
 
 ![Polars vs. pandas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2EHqvZVV4qNjRqrHiBK9-A.png "There's a new bear in town")
 
-For data manipulation, the go-to option is pandas. It's been the choice for some time, but recently a new bear arrived on the scene: Polars. Polars is written in Rust, so it all but takes care of every single shortcoming that Python, and by way of extension, pandas has. It's not a fair fight, really. 
+For data manipulation, the go-to option is pandas. It's been the choice for some time, but recently a new bear arrived on the scene: Polars. Polars is written in Rust, so it all but takes care of every single shortcoming that Python, and by way of extension, pandas has. It's not a fair fight, really.
 
 Read more about the breakdown [here](https://medium.com/cuenex/pandas-2-0-vs-polars-the-ultimate-battle-a378eb75d6d1), [here](https://betterprogramming.pub/data-duel-pandas-2-0-and-polars-0-17-7-battle-for-supremacy-in-speed-and-syntax-87f062995550), [here](https://studioterabyte.nl/en/blog/polars-vs-pandas) and [here](https://www.makeuseof.com/pandas-vs-polars-which-is-better/), but this is the key takeaway:
 
@@ -126,6 +122,6 @@ Stay tuned.
 
 ## Sayonara, snake
 
-So why deal with all this hassle? Well, **don't**. The path forward is pretty clear. For decades Python has risen in popularity, and despite this, the changes to the language and its ecosystem of libraries show that improvements are still wanting in major ways, and what improvements there are come with heavy costs. 
+So why deal with all this hassle? Well, **don't**. The path forward is pretty clear. For decades Python has risen in popularity, and despite this, the changes to the language and its ecosystem of libraries show that improvements are still wanting in major ways, and what improvements there are come with heavy costs.
 
 The world of machine learning, IOT, and AGI is not far off, and that world will only require *more* timeliness, *more* safety and security, and *more* efficient use of resources. These are things that Python cannot and will not deliver. Python is great for hobbyists and kids who are just getting into programming via [RaspberryPi](https://www.raspberrypi.com/), but it should not be the language of choice as we are steadily [handing over the reigns](https://builtin.com/artificial-intelligence/artificial-intelligence-future) to computers.
