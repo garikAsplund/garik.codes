@@ -89,7 +89,7 @@ We had dispatchers and actions everywhere, and even though we were just updating
 
 This chart only looks at memory usage, but other metrics end up being very similar. Plus, this is for Svelte 3, now out of date, and Svelte 5 won't be too far off with even more gains.
 
-[![Green is good](https://blog.logrocket.com/wp-content/uploads/2022/10/svelte-memory-usage-framework-comparison.png "Green is good")](https://blog.logrocket.com/should-you-use-svelte-production/)
+[![Green is good](../svelte_memory.png "Green is good")](https://blog.logrocket.com/should-you-use-svelte-production/)
 
 With SvelteKit, you can adapt your website for static use or deployment to any number of targets. Within the website, you can opt in or opt out of SSR and CSR to best suit your needs, and you can also prerender pages on different events for even better performance. As mentioned in their docs:
 
