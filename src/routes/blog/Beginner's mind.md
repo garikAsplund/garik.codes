@@ -1,6 +1,6 @@
 ---
 title: Beginner's Mind
-date: "2023-09-14"
+date: "2023-10-14"
 ---
 
 ## The OG Singularity
@@ -23,6 +23,8 @@ For us devs, what this means is we no longer have to be familiar with punch card
 
 In today's world, the newcomer has to know the Holy Trinity of HTML/CSS/JS, how to choose frameworks and pick databases, run both unit and integration tests, containerize their app and deploy it on the edge for maximum uptime and minimal latency, orchestrate said containers with Kubernetes or Docker Swarm, understand the DevOps lifecycle and what a CI/CD pipeline is. All so that when the greenest junior dev makes a change to fix a couple typos they don't bring down the whole company's website.
 
+Granted, I don't think many, or any, are calling for these tools and practices to go away--they have real value! It's just, you know, a lot for newcomers to grasp.
+
 ## Too many targets
 
 ![Buckle up](https://media.tenor.com/qBfG6bWpBYAAAAAd/tayshia-bachelorette.gif "Tayshia on SWE")
@@ -38,25 +40,25 @@ You could design a different app for each platform, but that would be painful an
 
 Then you need to have all the supporting tools in place. The number of tools is overwhelming, and, for the most part, this is a recent result of good old fashioned competition. Take the case of package managers in JavaScript.
 
-A few years ago you had to use NPM, and as we all know, [Theo's computer maxed out](https://youtu.be/ZIKDJBrk56k?si=HbOcg26X0tZ_XUT7) because of all the Node modules. A couple years ago you were excited about YARN--Yet Another Resource Negotiator--because it was faster, safer, and more reliable! Last year you probably switched to PNPM and were stoked that it had a single store and cached everything, then just referenced that cache with links. So. Speedy. And last week you heard about Bun and questioned everything you knew about life. Can you really install all your dependencies in under half a second?!
+A few years ago you had to use NPM, and as we all know, [Theo's computer maxed out](https://youtu.be/ZIKDJBrk56k?si=HbOcg26X0tZ_XUT7) because of all the Node modules. A couple years ago you were excited about YARN--Yet Another Resource Negotiator--because it was faster, safer, and more reliable! Last year you probably switched to PNPM and were stoked that it had a single store and cached everything, then just referenced that cache with links. So. Speedy. And last month you heard about Bun and questioned everything you knew about life. Can you really install all your dependencies in under half a second?! Kind of--it won't check if the "latest" flag is being honored :( though it's still impressive!
 
 ![Run Bun](../Bun.png "Run Bun")
 
-But Bun isn't *just* a package manager. It's also a fast runtime, test runner, and bundler. It tries to simplify the small mess of JavaScript tooling.
+But Bun isn't *just* a package manager. It's also a fast runtime, test runner, and bundler. It tries to simplify the small mess of JavaScript tooling. And unlike Deno, it wants to be a drop in replacement for Node, Jest, Webpack, et al.
 
-*actual app*, then you need to target both Android and iOS--so now you're writing in Kotlin or Dart for Google products and Swift for Apple products. Or maybe you want a desktop program, so you could use Electron to transpose a React-like project from the web. Then you have people trying to simplify all of this so you can just write once and deploy everywhere. In Rust there's a neat project, [Dioxus](https://dioxuslabs.com/]), doing just that. But, this is still *adding complexity* to the overall development environment! And there's no end in sight.
+However, this is still *adding complexity* to the overall development environment! And there's no end in sight.
 
-![He has a point](https://devs.lol/uploads/2021/11/meme-dev-humor-every-day-there-is-a-new-javascript-framework-86.jpg)
+There are many "write once, deploy anywhere" tools available, one recent neat addition is [Dioxus](https://dioxuslabs.com/) for Rust. But again, this is adding complexity. Then there's the land of tailored IDEs for languages. [Rust Rover](https://www.jetbrains.com/rust/) just dropped, splitting the Rust community into using an obsolete and maybe open source VSCode extension and a pay-to-play option backed by JetBrains. Examples like this truly are endless.
 
 ## The irony of it all
 
-The funny thing is, 99.99% of people will have no idea about any of this mess. No one checking their bank account balance is wondering which bundler you used or if the website is written in TypeScript. No one.
+The funny thing is, 99.99% of people will have no idea about any of this mess. No one checking their bank balance is wondering which bundler you used or if the website is written in TypeScript. **No one**.
 
 Sure, they'll complain, "This is slow!" Or they won't notice if it's fast. But they won't be wondering about your bleeding edge tech stack or how secure it is, though maybe they should.
 
 When I thought about transitioning into tech, I chatted with my dad--a retired software architect--about it all. He sketched me a diagram of different areas, like front and back end, along with the languages and tools they used. Immediately I was overwhelmed and scared. Literally just hearing the names and the complexity of it all reminded me that I knew nothing. Hadoop this, jQuery that, Ruby on Rails here, Java there, and JavaScript everywhere. Did I really want to go down this path?
 
-The first few months of learning web dev was, indeed, just learning some made-up name and what it did. What's a Docker? How do you train your K8s? Is Deno pronounce Denno or Deeno and does anyone ever use it? What's the difference between PocketBase, Supabase, and Firebase?
+The first few months of learning web dev was, indeed, just learning some made-up name and what it did. What's a Docker? How do you train your K8s? Is Deno pronounced Denno or Deeno or Dino because it has a dinosaur as a mascot? Side question, does anyone ever use it? What's the difference between PocketBase, Supabase, and Firebase?
 
 At the end of the day, all the end user cares about is if something *works*. When they click "post," will their friends see the latest cat content or not?
 
