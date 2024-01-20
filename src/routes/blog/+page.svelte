@@ -16,7 +16,7 @@
                 {post.meta.title}
               </a>
             </h2>
-            &nbsp&nbsp&nbsp{post.meta.date}
+            <!-- &nbsp&nbsp&nbsp{post.meta.date} -->
           </li>
         {/each}
       </ul>

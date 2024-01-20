@@ -13,6 +13,6 @@
   </div>
   <br>
   <br>
-  <p class="text-sm">Published: {date}</p>
+  <!-- <p class="text-sm">Published: {date}</p> -->
   <br>
 </article>
