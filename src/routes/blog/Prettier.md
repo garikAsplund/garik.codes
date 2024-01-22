@@ -29,7 +29,7 @@ It can take 10-12 seconds for Prettier to format large codebases. That might not
 
 Which is why on November 9, 2023, the Prettier team posted a $10k bounty “for any project written in Rust that would pass 95% of the Prettier test suite.” Then the CEO of Vercel, Guillermo Rauch, personally matched it. All told, there was $25k waiting for whoever cracked the code.
 
-And after only 3 weeks, someone claimed the prize. Well, someones, really. Here’s how the 9-person team at the Biome project did it.
+And after only 3 weeks, someone claimed the prize. Well, someones, really. Here’s how the 9-person team at [Biome](https://biomejs.dev/) did it.
 
 ## Get a massive headstart
 
