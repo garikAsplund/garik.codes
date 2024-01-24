@@ -48,9 +48,11 @@ It's worth mentioning that the amount of research teams do in preparation for pi
 
 ## Dishonest, damaging
 
-On the flip side, the bulk of these projects are broken and don't really help anyone. If asked in an interview what my time working on [Quell](https://www.quell.dev/) was about, I'd struggle to come up with a meaningful answer. We inherited a broken GraphQL cache for servers and clients similar to [Apollo](https://www.apollographql.com/), our advantage being we were lighter weight. We did our best to patch it up so that it actually did what it said it did. That's not nothing.
+On the flip side, the bulk of these projects are broken and don't really help anyone. If asked in an interview what my time working on [Quell](https://www.quell.dev/) was about, I'd struggle to come up with a meaningful answer.
 
-Still, it feels like we're putting the cart before the horse here. Instead of making websites or apps that utilize open source tools and coming across issues as they arise, the bootcamp automatically says you need to contribute to on open source project. Worse, that's still their stance even if the open source project is rarely used and keeps breaking since every 6 weeks it's being tweaked by a bunch of people who have very little experience coding.
+We inherited a broken GraphQL cache for servers and clients similar to [Apollo](https://www.apollographql.com/), our advantage being we were lighter weight. We did our best to patch it up so that it actually did what it said it did. That's not nothing.
+
+Still, it feels like we're putting the cart before the horse here. Instead of making websites or apps that utilize open source tools and coming across issues as they arise, the bootcamp automatically says you need to contribute to an open source project. Worse, that's still their stance even if the open source project is rarely used and keeps breaking since every 6 weeks it's being tweaked by a bunch of people who have very little experience coding.
 
 The biggest constraint here is time. Bootcamps need to move people through, like yesterday. So they can't afford the luxury of having developers work on a project for a while and maybe, maybe not come across true problems in some dependent library.
 
