@@ -1,5 +1,5 @@
 ---
-title: Beginner's Mind
+title: Beginner's mind
 date: "2023-10-14"
 ---
 

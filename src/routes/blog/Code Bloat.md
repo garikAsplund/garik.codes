@@ -1,5 +1,5 @@
 ---
-title: Code Bloat
+title: Code bloat
 date: "2023-08-20"
 ---
 
