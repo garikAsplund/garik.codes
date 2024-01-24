@@ -3,7 +3,7 @@ title: Contributing to open source
 date: "2024-01-23"
 ---
 
-A little while ago I had my [first successful pull request](https://github.com/mskocik/svelty-picker/pull/147/commits/e967c10fbb2a2c8352eb90551a363b97a29d533e) to an open source project. It was silly how small of a contribution it was--all I did was help clarify a variable in a date picker. Basically, [JavaScript is weird](https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#what-the-fck-javascript), and this project just needed to take that into account to advance the calendar page properly.
+A little while ago I had my [first successful pull request](https://github.com/mskocik/svelty-picker/pull/147/commits/e967c10fbb2a2c8352eb90551a363b97a29d533e) merged into an open source project. It was silly how small of a contribution it was--all I did was help clarify a variable in a date picker. Basically, [JavaScript is weird](https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#what-the-fck-javascript), and this project just needed to take that into account to advance the calendar page properly.
 
 This was the whole change:
 
@@ -15,7 +15,7 @@ This was the whole change:
 
 ## Let's be real
 
-That contribution is not gonna land me a job. But I'm still happy I did it. I was using the date picker for a project and ran into a problem, saw that someone had already opened an issue on GitHub, forked the repo, scrolled through and found out what was wrong rather quickly.
+That contribution is not gonna land me a job. But I'm still happy I did it. I was using the date picker for a project and ran into a problem, so I dug a little deeper and saw that someone had already opened an issue on GitHub. Then I forked and cloned the repo, scrolled through and found out what was wrong rather quickly.
 
 Not everyone is up for that small distraction. But *someone* is--that's the whole point of open source.
 
