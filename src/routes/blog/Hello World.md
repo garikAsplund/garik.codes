@@ -5,6 +5,7 @@ date: "2023-08-11"
 ```js
 console.log("Hi, I'm Garik 👋");
 ```
+
 ## Where I am today
 
 ![Me, coding](https://i.imgur.com/1CssljC.gif "Coding kitten")
