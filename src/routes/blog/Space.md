@@ -7,9 +7,9 @@ I admittedly have a problem--I love, love, love space. I spend too much time gee
 
 As unromantic as it is, probes and robots do a much better job of exploring space. And in order to do so, they need computers.
 
-After 60 years something truly exciting is happening out there. Space tech is finally becoming more like tech on Earth. And no, it's not Elon's fault. It's actually NASA's.
+After 65+ years of space exploration something truly exciting is happening out there. Space tech is finally becoming more like tech on Earth. And no, it's not *all* Elon's fault. It's also NASA's.
 
-This is the story of the 4 pound "little helicopter that could" and how it had [more compute than all other space missions combined](https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/).
+Read on to learn the story of how the 4 pound "little helicopter that could" has [more compute than all other space missions combined](https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/).
 
 ![Mind blown](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXA4d2w1dm03Y3dqeGpsYnY2MTl2dGw0djJhdzJmMmtuZDl5anE4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy.gif "Like that")
 
@@ -81,7 +81,7 @@ But then the unthinkable happened. The Ingenuity team decided to go shopping at 
 
 The most amazing thing is that it worked. Everything worked, and it worked rather well.
 
-Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for more than 2 hours and covered some 17 kilometers (11 miles).
+Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for more than 2 hours and covered some 17 kilometers.
 
 Here's a recap of the commercial off-the-shelf (COTS) approach:
 
