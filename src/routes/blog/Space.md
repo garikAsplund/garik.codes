@@ -49,7 +49,7 @@ As more and more missions gained funding in the new millennium, a fresh rad-hard
 
 Say hello to the [RAD750](https://en.wikipedia.org/wiki/RAD750), the poster child for bureaucratic space development.
 
-Rad-hard components are **spendy, heavy, and outdated**. The RAD750 weighs anywhere from 500 to 1500 grams depending on the model. It also costs about a $300,000. And then, in terms of performance, it's like having some hardware from a 90s laptop. Yikes.
+Rad-hard components are **spendy, heavy, and outdated**. The RAD750 weighs anywhere from 500 to 1500 grams depending on the model. It also costs about $300,000. And then, in terms of performance, it's like having some hardware from a 90s laptop. Yikes.
 
 Still, the RAD750 can be found on popular and important missions spanning two decades:
 
