@@ -81,7 +81,7 @@ But then the unthinkable happened. The Ingenuity team decided to go shopping at 
 
 The most amazing thing is that it worked. Everything worked, and it worked rather well.
 
-Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for a more than two hours and covered more than 17 kilometers (11 miles).
+Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for more than two hours and covered more than 17 kilometers (11 miles).
 
 Here's a recap of the commercial off-the-shelf (COTS) approach:
 
