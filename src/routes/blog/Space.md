@@ -88,7 +88,7 @@ Here's a recap of the commercial off-the-shelf (COTS) approach:
 - Cut costs considerably
 - Made development easier and faster
 - Saved weight and volume
-- Expanded compute by an order of magnitude
+- Increased compute by an order of magnitude
 
 And it might just make exploring space a little more exciting.
 
