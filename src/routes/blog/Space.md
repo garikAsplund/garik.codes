@@ -69,15 +69,15 @@ Still, the RAD750 can be found on popular and important missions spanning two de
 
 > If there had been no iPhone, there would have been no Ingenuity
 
-When engineers at JPL had the idea to send a drone to Mars, they faced some pretty extreme design constraints. Mars' atmosphere is less than 1% that of Earth's, or put another way, being on Mars is like being at 80,000 feet. The standard approach of throwing a RAD750 on a helicopter would not work because it would be way too heavy.
+When engineers at JPL had the idea to send a drone to Mars, they faced some pretty extreme design constraints. Mars' atmosphere is less than 1% that of Earth's, or put another way, being on Mars is like being at 100,000 feet. The standard approach of throwing a RAD750 on a helicopter would not work because it would be way too heavy.
 
 > The team was constrained to a mass of just 4 pounds (less than 2 kg) for the entire helicopter. That is the equivalent of approximately five cans of Campbell's soup. Those five cans of soup include your helicopter blades, which are several feet long, the batteries, the computer, the sensors and camera, the legs, the solar panel—all of it.
 
 It seemed like the NASA thing to do would prevail and they'd spend hundreds of millions of dollars designing super specific systems for the helicopter or it'd just as soon be cancelled.
 
-But then the unthinkable happened. The Ingenuity team decided to go shopping at Best Buy and picked up a couple cameras, a smartphone, and some batteries. That's not how NASA rolls!
+But then the unthinkable happened. The Ingenuity team decided to go shopping at Best Buy and picked up a couple cameras, a mobile phone, a smartwatch, and some batteries. That's not how NASA usually rolls!
 
-## Dare great things
+## Dare mighty things
 
 The most amazing thing is that it worked. Everything worked, and it worked rather well.
 
