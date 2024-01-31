@@ -1,5 +1,5 @@
 ---
-title: Computers...in space! 
+title: Computers...in space! part 1
 date: "2024-01-29"
 ---
 
@@ -79,11 +79,13 @@ But then the unthinkable happened. The Ingenuity team decided to go shopping at 
 
 ## Dare mighty things
 
-The most amazing thing is that it worked. Everything worked, and it worked rather well.
+The most amazing thing is that it worked. Everything worked, and it worked rather well given the extreme conditions.
 
 Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for more than 2 hours and covered some 17 kilometers.
 
-Here's a recap of the commercial off-the-shelf (COTS) approach:
+Many people were involved, from the dozens of people at JPL to the about 12,000 developers who now have a [Mars 2020 Helicopter Mission badge](http://github.co/m2020) for their work on various aspects of the code involved. It's worth mentioning, too, that another atypical approach for this mission--which has also seen great success--is open sourcing [F`, the flight systems framework](https://nasa.github.io/fprime/) used by many CubeSats.
+
+So, here's a recap of the commercial off-the-shelf (COTS) approach:
 
 - Cut costs considerably
 - Made development easier and faster
@@ -93,3 +95,5 @@ Here's a recap of the commercial off-the-shelf (COTS) approach:
 And it might just make exploring space a little more exciting.
 
 ![Did they find their unicorn?](https://melissagratias.com/wp-content/uploads/2020/05/GoodFastCheapImage_1.png "Did they find their unicorn?")
+
+In part 2 I'll look at private space companies and how they are using computers in space.
