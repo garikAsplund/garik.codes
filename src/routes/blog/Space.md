@@ -45,7 +45,9 @@ The computers ran on a more or less proprietary programming language, [HAL/S](ht
 
 > “Houston, we have a problem,” may make for a good movie; it’s no way to write software.
 
-NASA loves relying on old, expensive software with in-house code because it is safe for mission-critical systems. Think of NASA as the anti-Silicon Valley.
+NASA loves relying on old, expensive software with in-house code because it is safe for mission-critical systems. Think of NASA as the anti-Silicon Valley. The shuttle group even had a slogan, very much their own:
+
+> The sooner you fall behind, the more time you will have to catch up.
 
 ![Historically bad advice](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mark_Zuckerberg_-_Move_Fast_and_Break_Things.jpg/1664px-Mark_Zuckerberg_-_Move_Fast_and_Break_Things.jpg "Do NOT do this in space")
 
