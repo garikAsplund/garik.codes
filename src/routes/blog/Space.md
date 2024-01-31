@@ -83,7 +83,7 @@ When engineers at JPL had the idea to send a drone to Mars, they faced some pret
 
 It seemed like the NASA thing to do would prevail and they'd spend hundreds of millions of dollars designing super specific systems for the helicopter or it'd just as soon be cancelled.
 
-But then the unthinkable happened. The Ingenuity team decided to go shopping at Best Buy and picked up a couple cameras, a mobile phone, a smartwatch, and some batteries. That's not how NASA usually rolls!
+But then the unthinkable happened. The Ingenuity team decided to go shopping at Best Buy and picked up a couple cameras, a mobile phone, a smartwatch, a pair of antennas, and some batteries. That's not how NASA usually rolls!
 
 ## Dare mighty things
 
