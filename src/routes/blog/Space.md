@@ -37,9 +37,15 @@ If we were to go to the moon by the end of the decade, it had to be with integra
 
 ## Move slow and don't break anything
 
-After that moonshot--get it?--the tide turned once more back to risk aversion. The Space Shuttles had a handful of radiation-hardened (rad-hard) IBM computers that weren't too performant but were reliable and redundant. The computers ran on a more or less proprietary programming language, [HAL/S](https://en.wikipedia.org/wiki/HAL/S), and not a lot of change happened for three decades. That was kinda the whole point.
+After that moonshot--get it?--the tide turned once more back to risk aversion in a serious way.
 
-NASA loves relying on old, expensive software with in-house code because it can be safe for mission-critical systems. Think of it as the anti-Silicon Valley.
+The Space Shuttle had a handful of radiation-hardened (rad-hard) IBM computers that weren't too performant but boy were they reliable and redundant. There were 4 of the same computers with the exact same software that called the shots by voting. If for any reason the 4 computers weren't working, there was a separate fifth computer to take the helm.
+
+The computers ran on a more or less proprietary programming language, [HAL/S](https://en.wikipedia.org/wiki/HAL/S), and not a lot of change happened for three decades. That was kinda the whole point. In a codebase with 420,000 lines of code, there was [a single error](https://www.fastcompany.com/28121/they-write-right-stuff). Yes, you read that right.
+
+> “Houston, we have a problem,” may make for a good movie; it’s no way to write software.
+
+NASA loves relying on old, expensive software with in-house code because it is safe for mission-critical systems. Think of NASA as the anti-Silicon Valley.
 
 ![Historically bad advice](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mark_Zuckerberg_-_Move_Fast_and_Break_Things.jpg/1664px-Mark_Zuckerberg_-_Move_Fast_and_Break_Things.jpg "Do NOT do this in space")
 
