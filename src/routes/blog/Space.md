@@ -39,7 +39,9 @@ If we were to go to the moon by the end of the decade, it had to be with integra
 
 After that moonshot--get it?--the tide turned once more back to risk aversion in a serious way.
 
-The Space Shuttle had a handful of radiation-hardened (rad-hard) IBM computers that weren't too performant but boy were they reliable and redundant. There were 4 of the same computers with the exact same software that called the shots by voting. If for any reason the 4 computers weren't working, there was a separate fifth computer to take the helm.
+The Space Shuttle had a handful of radiation-hardened (rad-hard) IBM computers that weren't too performant but boy were they reliable and redundant. Radiation is a problem for computers in space because it can change 0s to 1s and vice versa. Typical rad-hard computers are a generation or two behind when it comes to specs, but they can withstand a million times the fatal dose of radiation for humans.
+
+There were 4 of the same computers with the exact same software that called the shots by voting. If for any reason the 4 computers weren't working, there was a separate fifth computer to take the helm.
 
 The computers ran on a more or less proprietary programming language, [HAL/S](https://en.wikipedia.org/wiki/HAL/S), and not a lot of change happened for three decades. That was kinda the whole point. In a codebase with 420,000 lines of code, there was [a single error](https://www.fastcompany.com/28121/they-write-right-stuff). Yes, you read that right.
 
