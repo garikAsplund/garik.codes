@@ -15,7 +15,7 @@ Read on to learn the story of how the 4 pound "little helicopter that could" has
 
 ## Analog beginnings
 
-When Yuri Gagarin went to space in 1961, the Russians didn't trust computers. Well, to be more precise, they didn't trust *electronic* computers. Instead they insisted on using mechanical ones like the impressive [Globus](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html), which was more in the vein of clocks than computers.
+When Yuri Gagarin went to space in 1961, the Russians didn't trust computers. Well, to be more precise, they didn't trust *electronic* computers. Instead they insisted on using mechanical ones like the impressive [Globus](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html), which was more in the vein of clocks than computers, and told the cosmonauts where they were in orbit.
 
 ![The Globus](https://static.righto.com/images/globus-overview/wiring.jpg "Where am I?")
 
