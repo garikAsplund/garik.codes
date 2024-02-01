@@ -93,7 +93,7 @@ The most amazing thing is that it worked. Everything worked, and it worked rathe
 
 Originally designed for 1-5 flights, Ingenuity flew a total of 72 times. In just over 3 years it flew for more than 2 hours and covered some 17 kilometers.
 
-Many people were involved, from the dozens of people at JPL to the about 12,000 developers who now have a [Mars 2020 Helicopter Mission badge](http://github.co/m2020) for their work on various aspects of the code involved. It's worth mentioning, too, that another atypical approach for this mission--which has also seen great success--is open sourcing [F`, the flight systems framework](https://nasa.github.io/fprime/) used by many CubeSats.
+Many people were involved, from the dozens of people at JPL to the about 12,000 developers who now have a [Mars 2020 Helicopter Mission badge](http://github.co/m2020) for their work on various aspects of the code involved. It's worth mentioning, too, that another atypical approach for this mission--which has also seen great success--was open sourcing [F`, the flight systems framework](https://nasa.github.io/fprime/) used by many CubeSats.
 
 So, here's a recap of the commercial off-the-shelf (COTS) approach:
 
