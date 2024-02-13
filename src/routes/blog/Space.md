@@ -87,6 +87,10 @@ It seemed like the NASA thing to do would prevail and they'd spend hundreds of m
 
 But then the unthinkable happened. The Ingenuity team decided to go shopping at Best Buy and picked up a couple cameras, a mobile phone, a smartwatch, a pair of antennas, and some batteries. That's not how NASA usually rolls!
 
+Ingenuity's fuselage is even completely made out of the avionics boards filled with other parts due to weight limitations and heating requirements!
+
+![Box it up](https://hips.hearstapps.com/hmg-prod/images/pop-marshelicopter-labels-battery-1613514029.png "It's IN the computer")
+
 ## Dare mighty things
 
 The most amazing thing is that it worked. Everything worked, and it worked rather well given the extreme conditions.
