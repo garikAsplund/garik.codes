@@ -43,9 +43,15 @@ I got a part-time gig writing videos about Rust. Now that I had an angle, things
 
 ## Options
 
-Now I'm at an awkward place where I know a little bit more about the landscape that's out there and have some projects under my belt, but I'm still struggling to find a full-time role. Do I want to be in devOps, technical writing, embedded systems, or network architecture?
+Now I'm at an awkward place where I know a little bit more about the landscape that's out there and have some projects under my belt, but I'm still struggling to find a full-time role and grappling with if this whole career change was actually a huge mistake.
 
-I'm also learning that while I love where I live and the life I've built, maybe going all-in on a career and moving to Seattle could pay off in big ways. In-person work still has its benefits. It can focus you, encourage you, and engage you in ways that remote work isn't able to do. I kinda yearn for a collegiate atmosphere.
+[![Jensen says](../nvidia.png "Ooopsies")](https://www.instagram.com/p/C3-fUm8t-us/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+Do I want to be in devOps, technical writing, embedded systems, or network architecture? Is there room for me in any of these domains? I really don't know.
+
+I'm also learning that while I love where I live and the life I've built, maybe going all-in on a career and moving to Seattle could pay off in big ways.
+
+In-person work still has its benefits. It can focus you, encourage you, and engage you in ways that remote work isn't able to do. I kinda yearn for a collegiate atmosphere.
 
 Plus, being remote means that you are simultaneously the smartest and dumbest person in the room. Learning velocity is insanely slow because there just isn't a ton of interaction or tangeable pressure on a daily basis.
 
