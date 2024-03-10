@@ -21,9 +21,9 @@ It was all going according to plan.
 
 ## The reality
 
-Tech moves fast. ChatGPT was introduced in November 2022, days before my bootcamp started. Tech layoffs started to increase earlier in the year with attention-grabbing headlines appearing week after week.
+Tech moves fast. ChatGPT was introduced in November 2022, days before my bootcamp started in December. Tech layoffs started to increase earlier in the year with attention-grabbing headlines appearing week after week.
 
-[![This doesn't look good](../layoffs.png "Bad news")](https://techcrunch.com/2024/03/06/tech-layoffs-2023-list/)
+[![This doesn't look good](../layoffs_2.png "Bad news")](https://techcrunch.com/2024/03/06/tech-layoffs-2023-list/)
 
 January 2023 was horrible. February was terrible. March was bad. And that's when I hit the job market. You could say it was *not* good timing.
 
