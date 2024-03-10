@@ -27,7 +27,7 @@ Tech moves fast. ChatGPT was introduced in November 2022, days before my bootcam
 
 January 2023 was horrible. February was terrible. March was bad. And that's when I hit the job market. You could say it was *not* good timing.
 
-The sudden change was shocking. "Just learn to code" had been a slam-dunk decision for decades and increased during the pandemic. But "AI will take your job" and "No one is hiring" became the new norm overnight.
+The sudden change was shocking. "Just learn to code" had been a slam-dunk decision for decades and only made more sense during the pandemic. But "AI will take your job" and "No one is hiring" became the new norm overnight. And it has stayed that way.
 
 ## Making adjustments
 
@@ -37,20 +37,20 @@ After countless applications that were going nowhere, and increasingly feeling l
 
 As a newer developer, I had very few connections and not a lot of direction. Sure, webdev. But what is that? I learned that being self-motivated and coding all-day by myself super sucked. Not being plugged into a larger team was draining and confusing.
 
-That's when I started reaching out to smaller companies or researching projects that were interesting to me. 
+That's when I started reaching out to smaller companies or researching projects that were interesting to me.
 
 I got a part-time gig writing videos about Rust. Now that I had an angle, things became much easier. Cold calls had a point--there was inertia behind them and people started being receptive to talking.
 
 ## Options
 
-Now I'm at an awkward place where I know a little bit more about the landscape that's out there, have some projects under my belt, but am still struggling to find a full-time role. Do I want to be in devOps, technical writing, embedded systems, or network architecture?
+Now I'm at an awkward place where I know a little bit more about the landscape that's out there and have some projects under my belt, but I'm still struggling to find a full-time role. Do I want to be in devOps, technical writing, embedded systems, or network architecture?
 
-I'm also learning that while I love where I live and the life I've built, maybe going all-in on a career and moving to Seattle could pay off in big ways. In-person work still has it's benefits. It can focus you, encourage you, and engage you in ways that remote work isn't able to do. I kinda yearn for a collegiate atmosphere.
+I'm also learning that while I love where I live and the life I've built, maybe going all-in on a career and moving to Seattle could pay off in big ways. In-person work still has its benefits. It can focus you, encourage you, and engage you in ways that remote work isn't able to do. I kinda yearn for a collegiate atmosphere.
 
 Plus, being remote means that you are simultaneously the smartest and dumbest person in the room. Learning velocity is insanely slow because there just isn't a ton of interaction or tangeable pressure on a daily basis.
 
 ## And yet
 
-Still, I'm happy that I'm able to sit at home with a cat in my lap and a dog at my feet while scheduling talks with people who do know way more than me. It's not all bad.
+Still, I'm happy that I'm able to sit at home with a cat in my lap and a dog at my feet while scheduling talks with people who do know way more than me. It's not all that bad.
 
 ![Coding done right](https://lh3.googleusercontent.com/pw/AP1GczM2HyuW4yh9g_1Cr00j4IDQsfKajg8B3eHz9C_gVoTmRAV0uWBJE6NGKWTSERaqVZcYZr_Awew7yXiFpLqB192LJSM6dDtBWqEEQk4894iSNu6AO9OtfjnsRUVNaIEnB-GBt83AYuYktSuYipoKsTVGX1VBK859o7yebA2PwnZE-f_PLflmoFM8VHpRP4hEljXWe101GAHnqKpyNP9DFQxJ10WuelhYbom_py6IxhS-ziVWpN1sn30tiAWriK5Q4Ybz6yE-chGkySl3s2XE-2vHywuAqV6Sph0ann0by0sMbGUBL32aHFhXG1tr1WYLpf6ETS5Xd0b342LXImxzdzTtD2dS139KF9xvMsSiG3bcfocTDpy-yE0BstbKEjNNwyDMG3te4wM5b99XmSkyV9xGV_2pxDRy-Gwos4vJLwHgu8mbl8GatIIyaOSlYcfDuYPFy2EzhWK1LME_XLRl0i5AyjqcaF1KKTJPOR1Xmg671zrhHxGXyB4Al1Lj_l_J2zXMBKiGr3B27mSLse7sqB2osPoRXsdWH3TUpv2uKvh7-RcwlClDV5lCtnckagmrma0-WkLJDqG3AG8CrzQPo7ZWCXvVMFrcus1XC6Ks7-wKpIz8Ol6MzbLoEcW2sqPau5u2NcwcfwbjOQpNDckj2g7rLTJtRWzeLlbEfSVpGplBBqpuqsR-JE3KeMQfJG24AVY6bEVYh8ycuUSjlBlGOTvaSQkCT91fWqdkJkbu9yhdQBsEsLylwvcRgHq7m6aRY-ysRL9i33vyNJ8-jX_ANtjwLa86xdS0QGW1rloQrGO6lCpZAGzAgvDqT4AKLjHZQSQcj9I-QlvyTtyKhaga99gACCUEQHAP_QOmoJv7yASJM8ydfRd07u17tHvu2Jf6_KipJhr5BKZQJT7oHIMpROH58loK=w1604-h2138-s-no-gm?authuser=0 "Hammock code cracked")
