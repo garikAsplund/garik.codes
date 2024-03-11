@@ -5,11 +5,11 @@ date: "2024-03-10"
 
 ## The dream
 
-I've had my fun as a ski bum who juggled many menial jobs just to get by for a decade. 
+I've had my fun as a ski bum who juggled many menial jobs just to get by for a decade.
 
 So when I was visiting NYC in April 2022 and caught up with an old roommate of mine from college, he, along with everybody else, heard my frustrations and responded with "Just learn to code."
 
-![NYC](../nyc.jgp "Learn to code, bro")
+![NYC](../nyc.jpg "Learn to code, bro")
 
 Seemed to make sense: remote work was very quickly normalized, learning resources were plentiful, and my dad had been a software architect his whole career.
 
