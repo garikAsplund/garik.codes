@@ -67,7 +67,7 @@
 		</main>
 		{/key}
 		<svelte:fragment slot="footer">
-				<div class="flex flex-row justify-center gap-x-1 opacity-60">
+				<div class="flex flex-row justify-center gap-x-1 opacity-30 mb-2">
 				<a
 					href="https://github.com/garikAsplund"
 					target="_blank"
