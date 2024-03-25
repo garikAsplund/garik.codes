@@ -9,7 +9,7 @@ Last year was a doozy for me--there was a string of bad events that left me lite
 
 In November 2022 I went to Mt. Hood for some early season skiing and Portland to see friends before doing a "software engineering immersive"--a way of saying coding bootcamp without saying coding bootcamp. My car was stolen and trashed.
 
-In April 2023, right after finishing said bootcamp, I left for the Eastern Sierra to ski the epic snow and venture farther south to peep some superblooms. My radiator melted. Then found out it was actually a blown head gasket that caused the radiator to go. I was stranded for 2 weeks and out thousands of dollars, cash.
+In April 2023, right after finishing said bootcamp, I left for the Eastern Sierra to ski the epic snow and venture farther south to peep some superblooms. My radiator melted. Then I found out it was actually a blown head gasket that caused the radiator to go. I was stranded for 2 weeks and out thousands of dollars, cash.
 
 In June 2023 I met with my cousin at Snoqualmie Pass to go backpacking and talk software engineering since he just received his Ph. D. in computer science. We got turned around because of high snow and returned to my car where there was shattered glass all around on the ground. My car was ransacked and my one and only computer that I was working on during the roadtrip was gone.
 
@@ -17,23 +17,29 @@ So that's when I said I wasn't leaving The County. And I didn't for 9 months.
 
 ## Problems
 
-But being homebound kinda sucks. And especially last year when the tech market got rocked. I was getting nowhere in terms of establishing my career and I knew it.
+But being homebound kinda sucks, especially last year when the tech market got rocked. I was getting nowhere in terms of establishing my career and I knew it.
 
-So I started networking and researching remotely as to how I could level up. Research shows Seattle is, like, a *really* good place for software engineers. That was true 30 years ago when Jeff Bezos wanted Amazon to be Seattle-based because Microsoft was there and he could steal talent away pretty easily.
+So I started networking and researching remotely as to how I could level up. Research shows Seattle is, like, a *really* good place for software engineers.
+
+That was true 30 years ago when Jeff Bezos wanted Amazon to be Seattle-based because Microsoft was there and he could steal talent away pretty easily.
 
 It's even more true today.
 
 ## No brainer
 
-So after my trail marathon in Hells Canyon and visiting a trail friend in the Methow Valley where I did not ski *at all*, I loaded up in my still struggling Jeep and headed for Seattle, the land of cherry blossoms.
+So I knew I needed to get out there and get after it. Time to unground myself!
+
+I loaded up in my still struggling Jeep and sped off to a trail marathon in Hells Canyon, then went to go visit a trail friend in the Methow Valley where I did not ski *at all*. Then I set my sights on Seattle, the land of cherry blossoms, spring showers, and bikini baristas.
 
 I filled my schedule with Zoom calls, meet ups, drop ins, hang outs, and tag alongs.
 
-Here's what I learned.
+**Here's what I learned.**
 
 ## Where to work is still being figured out
 
-It seems like the proper mix of remote/hybrid/on-site work is *still* being sought after. I asked many people if they were more productive in the office, and it was almost 100% yes. Yet people also tend to heavily favor working remote.
+It seems like the proper mix of remote/hybrid/on-site work is *still* being sought after.
+
+I asked many people if they were more productive in the office, and it was almost 100% yes. Yet people also tend to heavily favor working remote.
 
 Microsoft has a history of being on-site, but they have a hybrid policy in place, and even within that it depends on your team. Some teams have different splits and the in/out of office ratio seems negotiable.
 
