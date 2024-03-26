@@ -15,7 +15,7 @@ In April 2023, right after finishing said bootcamp, I left for the Eastern Sierr
 
 In June 2023 I met with my cousin at Snoqualmie Pass to go backpacking and talk software engineering since he just received his Ph. D. in computer science. We got turned around because of high snow and returned to my car where there was shattered glass all around on the ground. My car was ransacked and my one and only computer that I was working on during the roadtrip was gone.
 
-So that's when I said I wasn't leaving The County. And I didn't for 9 months.
+So that's when I said I wasn't leaving [The County](https://adobeandteardrops.com/2024/02/hey-listen-forrest-vantuyl-ventures-through-the-county.html). And I didn't for 9 months.
 
 ## Problems
 
@@ -33,11 +33,13 @@ It's even more true today.
 
 So I knew I needed to get out there and get after it. Time to unground myself!
 
-I loaded up in my still struggling Jeep and sped off to a trail marathon in Hells Canyon, then went to go visit a trail friend in the Methow Valley where I did not ski *at all*. Then I set my sights on Seattle, the land of cherry blossoms, spring showers, and bikini baristas.
+I loaded up in my still struggling Jeep and sped off to a trail marathon in Hells Canyon, then went to go visit a hiking buddy in the Methow Valley where I did not ski *at all*. Then I set my sights on Seattle, the land of cherry blossoms, spring showers, and bikini baristas.
 
 I filled my schedule with Zoom calls, meet ups, drop ins, hang outs, and tag alongs.
 
 ![Booked](https://s-media-cache-ak0.pinimg.com/736x/a5/d4/9c/a5d49c4d4cf6aa1e07db81d2da81625b.jpg "Booked")
+
+I went to the AWS Skills Center in South Lake Union and I visited the Microsoft Reactor in Redmond. I Zoomed with people far and wide to talk about the job market, my resume, how Rust is being used in aerospace. I got coffee with content creators and ran around Green Lake with a bootcamp buddy to catch up and eat Caribbean food.
 
 **Here's what I learned.**
 
@@ -49,9 +51,9 @@ I asked many people if they were more productive in the office, and it was almos
 
 ![Work from home](https://media1.tenor.com/m/OEq_R7aWDhIAAAAC/fifth-harmony-dance.gif "Work from home")
 
-Microsoft has a history of being on-site, but they have a hybrid policy in place, and even within that it depends on your team. Some teams have different splits and the in/out of office ratio seems negotiable.
+Microsoft has a history of being on-site, though they have a hybrid policy in place, and even within that it depends on your team. Some teams have different splits and the in/out of office ratio seems negotiable.
 
-Amazon made a big stink about getting everyone back in the office, but hilariously they can't track or enforce it yet. An engineer I talked with at AWS said he refuses to go back to the office. How he gets around it is he just swipes his badge at the office once a day. Sure, Amazon can track your package every step of the way, but they have no idea if their SDE II was in for 1 minute or 10 hours. Astounding.
+Amazon made a big stink about getting everyone back in the office--hilariously they can't track or enforce it yet. An engineer I talked with at AWS said he refuses to go back to the office. How he gets around it is he just swipes his badge at the office once a day. Sure, Amazon can track your package every step of the way, but they have no idea if their SDE II was in for 1 minute or 10 hours. Astounding.
 
 ## Culture matters
 
@@ -71,7 +73,7 @@ The tech world is always shuffling talent around, but last year was like playing
 
 ![Tough times](https://i.redd.it/rr6our9c1hn11.gif "The game rn")
 
-People who were laid off are now in grad school and will come out with work experience and *another* degree. Kids have grown up working with Raspberry Pis and running robots or building drones if not rockets.
+People who were laid off are now in grad school and will come out with work experience and *another* degree. Kids have grown up working with Raspberry Pis, running robots, and building drones if not rockets.
 
 Aside from a bunch of new talent coming in from growing up with tech and old talent recently released to correct for overhiring during the pandemic, other huge events synched up to make getting a job in tech harder, especially for juniors:
 
@@ -91,10 +93,34 @@ This stereotype stood out to me, perhaps because I might not be your typical SWE
 
 Historically my workdays were spent chatting in the field while harvesting veggies or riffing on the line in the kitchen. I haven't had the opportunity to work with a bunch of hardened engineers on a daily basis.
 
+## There are still **big** ideas out there
+
+And not all of them are being worked on.
+
+![Big thoughts](https://media4.giphy.com/media/8fi9oxCKjbMHo26AjH/200w.gif?cid=6c09b952yp5t1l5vvpq9zbfrjqnvscb15bvali2esbmfdtun&ep=v1_gifs_search&rid=200w.gif&ct=g "Big thoughts")
+
+It took 8 years for the *idea* of a [custom JavaScript runtime on AWS Lambda](https://github.com/awslabs/llrt) to take hold and 2 more years to get it to beta. That is insane. It should have been a thought from day one and in production a year later.
+
+TypeScript is a patched together bloated behemoth and there'd be tons of benefits from a rewrite. [But the one guy](https://www.totaltypescript.com/rewriting-typescript-in-rust) who was doing that [stopped working on it](https://github.com/dudykr/stc/issues/1101).
+
+Rust's compiler will include a bunch of unused code from your crates. It doesn't have to--it's just that no one has made a version of the compiler that trims dead code to reduce binary sizes.
+
+## It's ok to not know everything
+
+In my fruitful chat with the kind and prolific [Nick Cosentino](https://www.linkedin.com/in/nickcosentino) of [Dev Leader](https://www.devleader.ca/), he explained that the project he's currently managing is involved in [routing and proxying for Microsoft 365](https://youtu.be/Zf0YWgNbKnQ?si=ezs0Nw_mDX-4igjO&t=264) and they're doing it in Rust.
+
+[![Listen to Nick](https://i.ytimg.com/an_webp/Zf0YWgNbKnQ/mqdefault_6s.webp?du=3000&sqp=CITOiLAG&rs=AOn4CLBhpyN-nbFbMZdADRCG-6K4O0w6NQ)](https://youtu.be/Zf0YWgNbKnQ?si=ezs0Nw_mDX-4igjO&t=264)
+
+He doesn't know Rust. The 10 other engineers on the team don't know Rust.
+
+Heck, there's an engineer on the team without fluency in C# or C++.
+
+All that is to say that there are fundamentals that are more important than rote knowledge of syntax and that learning on the job is totally normal if not fully expected.
+
 ## Other observations
 
 - The Indian food in and around Bel-Red is pretty great
-- The center of Microsoft's East Campus is a cricket pitch with artificial turf and huge stadium lights
+- [The center of Microsoft's East Campus is a cricket pitch](https://news.microsoft.com/apac/2018/01/08/microsoft-breaks-new-ground-campus-cricket-anyone/) with artificial turf and huge stadium lights
 - Most big highway projects *should* have been done 20 years ago: 405 widening, 520/5 interchange, 18/90 interchange and widening
 - I'm certain there are some fascinating differences and spillover effects as a result of Amazon's downtown location and Microsoft's suburban headquarters
 - Space tech is moving fast, and a bunch of activity is happening in Redmond
