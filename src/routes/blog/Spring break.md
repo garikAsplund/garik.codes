@@ -11,6 +11,8 @@ In November 2022 I went to Mt. Hood for some early season skiing and Portland to
 
 In April 2023, right after finishing said bootcamp, I left for the Eastern Sierra to ski the epic snow and venture farther south to peep some superblooms. My radiator melted. Then I found out it was actually a blown head gasket that caused the radiator to go. I was stranded for 2 weeks and out thousands of dollars, cash.
 
+![Flower Noodle](../noodle.jpg "Flower Noodle")
+
 In June 2023 I met with my cousin at Snoqualmie Pass to go backpacking and talk software engineering since he just received his Ph. D. in computer science. We got turned around because of high snow and returned to my car where there was shattered glass all around on the ground. My car was ransacked and my one and only computer that I was working on during the roadtrip was gone.
 
 So that's when I said I wasn't leaving The County. And I didn't for 9 months.
@@ -25,6 +27,8 @@ That was true 30 years ago when Jeff Bezos wanted Amazon to be Seattle-based bec
 
 It's even more true today.
 
+![Double true](https://img.devrant.com/devrant/rant/r_1326845_yjiAB.gif "Double true")
+
 ## No brainer
 
 So I knew I needed to get out there and get after it. Time to unground myself!
@@ -33,6 +37,8 @@ I loaded up in my still struggling Jeep and sped off to a trail marathon in Hell
 
 I filled my schedule with Zoom calls, meet ups, drop ins, hang outs, and tag alongs.
 
+![Booked](https://s-media-cache-ak0.pinimg.com/736x/a5/d4/9c/a5d49c4d4cf6aa1e07db81d2da81625b.jpg "Booked")
+
 **Here's what I learned.**
 
 ## Where to work is still being figured out
@@ -40,6 +46,8 @@ I filled my schedule with Zoom calls, meet ups, drop ins, hang outs, and tag alo
 It seems like the proper mix of remote/hybrid/on-site work is *still* being sought after.
 
 I asked many people if they were more productive in the office, and it was almost 100% yes. Yet people also tend to heavily favor working remote.
+
+![Work from home](https://media1.tenor.com/m/OEq_R7aWDhIAAAAC/fifth-harmony-dance.gif "Work from home")
 
 Microsoft has a history of being on-site, but they have a hybrid policy in place, and even within that it depends on your team. Some teams have different splits and the in/out of office ratio seems negotiable.
 
@@ -53,11 +61,15 @@ Startups will have tons of hands on experiences--you're in the trenches and can 
 
 Big Tech is a bit different. You can be siloed much more easily. Your boss has a boss has a boss has a boss has a boss. Want something small done? It'll probably take a week. There are vertical and horizontal structures. There's a past. Everything has to stay running all the time.
 
+![Microsoft's structure](https://static.seekingalpha.com/uploads/2013/5/1/4497021-13674376366158104-Abu-Bakr-Hussain_origin.jpg "Microsoft's structure")
+
 ## The market *is* that competitive
 
 Hindsight is 20/20, and I probably should have been a computer science major before it was cool. Instead I struggled through my economics degree with depression and had an unsettled decade after college. In the past 15 years everyone has been studying compsci at school or gone to a bootcamp on the side.
 
 The tech world is always shuffling talent around, but last year was like playing 52 card pickup.
+
+![Tough times](https://i.redd.it/rr6our9c1hn11.gif "The game rn")
 
 People who were laid off are now in grad school and will come out with work experience and *another* degree. Kids have grown up working with Raspberry Pis and running robots or building drones if not rockets.
 
@@ -72,6 +84,8 @@ If you're not a senior, you're likely not getting hired.
 ## Soft skills are gold
 
 Most engineers still have a hard time interacting with one another or expressing their thoughts coherently.
+
+![Pied Piper](https://i.pinimg.com/originals/42/43/da/4243da4913bef1159064b3e7ade56495.gif "Pied Piper")
 
 This stereotype stood out to me, perhaps because I might not be your typical SWE and am coming into the field a little late.
 
