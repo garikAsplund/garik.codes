@@ -5,7 +5,7 @@ date: "2024-03-27"
 
 ## Starting small but starting
 
-I think it'd be pretty rad to be involved in software for space exploration and the burgeoning space economy. Trouble is, I know nothing about embedded systems.
+I think it'd be pretty rad to be involved in software for space exploration and the burgeoning space economy. However, I know nothing about embedded systems.
 
 Fortunately there's no better time than the present for getting into embedded. Hardware is cheap and resources are plentiful.
 
