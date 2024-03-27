@@ -146,6 +146,8 @@ All this code does is make sure that the target is correct--thumbv6m-none-eabi f
 
 ![Pico internals](https://www.digikey.com/maker-media/e2eb47b9-10ea-4cca-8962-b582b67e0670 "Pico internals")
 
+The last thing to do is to hold down the button on the Pico when plugging it in via USB so that when we execute "cargo run" via the terminal all the code is cross compiled and loaded on to the Pico. It'll then run the code without an operating system and that's pretty sweet!
+
 ## Wrapping it up
 
 <video src="../blinky.mp4" width="320" height="240" controls></video>
