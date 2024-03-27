@@ -168,4 +168,4 @@ One possible problem was a faulty connection in the wiring, and that'd be nice b
 
 So I popped the hood, took off the connectors for both the A and B banks, then tested all 3 pins with a voltmeter to see if they were reading 5v, just like the Pico uses.
 
-Sadly they all were sitting squarely at 5v, meaning it's not just the wiring. Guess I'll have to go into the shop one more time.
+Sadly they all were sitting squarely at 5 V, meaning it's not just the wiring. Guess I'll have to go into the shop one more time.
