@@ -166,6 +166,6 @@ In a weird way, this basic exercise gave me the confidence to investigate my che
 
 One possible problem was a faulty connection in the wiring, and that'd be nice because then I wouldn't have to pay for a more thorough investigation or bigger fix.
 
-So I popped the hood, took off the connectors for both the A and B banks, then tested all 3 pins with a voltmeter to see if they were reading 5v, just like the Pico uses.
+So I popped the hood, took off the connectors for both the A and B banks, then tested all 3 pins with a voltmeter to see if they were reading 5 V, just like the Pico uses.
 
 Sadly they all were sitting squarely at 5 V, meaning it's not just the wiring. Guess I'll have to go into the shop one more time.
