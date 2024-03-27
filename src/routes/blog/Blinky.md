@@ -142,7 +142,7 @@ target = "thumbv6m-none-eabi"        # Cortex-M0 and Cortex-M0+
 DEFMT_LOG = "debug"
 ```
 
-All this code does is make sure that the target is correct--thumbv6m-none-eabi for Cortex-M0/+--and that the runner gets the binary in the right format. Here it's going from [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) to [UF2](https://makecode.com/blog/one-chip-to-flash-them-all) in Rust via [elf2uf2-rs](https://github.com/JoNil/elf2uf2-rs). The -ds flag gives us automatic deployment to a mounted pico in addition to opening the pico as a serial device after deploy and printing serial output.
+All this code does is make sure that the target is correct--thumbv6m-none-eabi for Cortex-M0/+--and that the runner gets the binary in the right format. Here it's going from [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) to [UF2](https://makecode.com/blog/one-chip-to-flash-them-all) in Rust via [elf2uf2-rs](https://github.com/JoNil/elf2uf2-rs). The -ds flag gives us automatic deployment to a mounted pico in addition to opening the pico as a serial device and printing serial output.
 
 ![Pico internals](https://www.digikey.com/maker-media/e2eb47b9-10ea-4cca-8962-b582b67e0670 "Pico internals")
 
