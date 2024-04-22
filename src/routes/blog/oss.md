@@ -10,7 +10,7 @@ date: "2024-04-21"
 Last week I spent a few days at The Linux Foundation's [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) held at the Seattle Convention Center. These were the things everyone was talking about:
 
 - Security and trust in a post xz world
-- WASM, WASM everywhere
+- Wasm, Wasm everywhere
 - The right to fork
 
 ## Security versus trust
@@ -23,21 +23,21 @@ So, despite not having any answers, at least there was a healthy ongoing discuss
 
 ![Do you trust me?](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY0Y21peXU1MGIzcGh3eHNhcW5jN3ZlbzFhZnZzdzlmN251YTI1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/voF2A48B0XQje/giphy.gif "Do you trust me?")
 
-## WASM for the win
+## Wasm for the win
 
-Sure, I've heard of WASM. It's a cool idea--run any code in the browser, not *just* JavaScript. But that idea is [floundering](https://www.youtube.com/watch?v=fbd0MEWnPkE).
+Sure, I've heard of Wasm. It's a cool idea--run any code in the browser, not *just* JavaScript. But that idea is [floundering](https://www.youtube.com/watch?v=fbd0MEWnPkE).
 
-Little did I know that WASM is exploding in serverless contexts. Like, it's a really big deal.
+Little did I know that Wasm is exploding in serverless contexts. Like, it's a really big deal.
 
-[![WASM is a big deal](../docker.png "WASM is a big deal")](https://twitter.com/solomonstre/status/1111004913222324225?lang=en)
+[![Wasm is a big deal](../docker.png "Wasm is a big deal")](https://twitter.com/solomonstre/status/1111004913222324225?lang=en)
 
-Long story short, WASM enables **super small, super secure, super fast** containers. It's as if a bunch of people designed the perfect container from the ground up. But they didn't. It was a happy accident.
+Long story short, Wasm enables **super small, super secure, super fast** containers. It's as if a bunch of people designed the perfect container from the ground up. But they didn't. It was a happy accident.
 
-And that's not all! WASM is also able to run on any platform without configuration. Plus, with components, you can mix and match languages and libraries in endless ways to save you from headaches.
+And that's not all! Wasm is also able to run on any platform without configuration. Plus, with components, you can mix and match languages and libraries in endless ways to save you from headaches.
 
-![WASM everywhere](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93ODRvdXFreTVka2pnN3ViOHhrdXY4MmZraDEzZjV3cG95dzcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbtWGvMSmJIaV8faS8/giphy.gif "WASM everywhere")
+![Wasm everywhere](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW93ODRvdXFreTVka2pnN3ViOHhrdXY4MmZraDEzZjV3cG95dzcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbtWGvMSmJIaV8faS8/giphy.gif "Wasm everywhere")
 
-As the Cloud Native Computing Foundation said:
+As the [Cloud Native Computing Foundation](https://www.cncf.io/) says:
 
  >Containers are the new normal, and WebAssembly is the future.
 
